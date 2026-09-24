@@ -1,0 +1,1209 @@
+Transaction_ID,Date,Category,Amount_INR,Payment_Method,Merchant,Description,Day_of_Week,Weekend,Month
+TXN00815,2025-10-04,Food,176.25,Debit Card,Street Food,Dinner,Saturday,Yes,2025-10
+TXN00668,2026-04-17,Entertainment,73.57,UPI,Gaming,Game,Friday,No,2026-04
+TXN00289,2025-12-08,Shopping,129.08,UPI,Local Store,Accessories,Monday,No,2025-12
+TXN00382,2025-10-06,Food,192.85,UPI,Food Delivery,Coffee,Monday,No,2025-10
+TXN00418,2026-03-15,Bills,261.26,Cash,Mobile Provider,Utility payment,Sunday,Yes,2026-03
+TXN00148,2026-01-21,Shopping,356.97,Cash,Flipkart,Electronics,Wednesday,No,2026-01
+TXN00859,2025-11-12,Subscriptions,149.43,Net Banking,Cloud Storage,Monthly subscription,Wednesday,No,2025-11
+TXN00676,2025-09-14,Food,196.36,UPI,Food Delivery,Dinner,Sunday,Yes,2025-09
+TXN01082,2026-04-19,Food,139.72,UPI,Street Food,Dinner,Sunday,Yes,2026-04
+TXN00011,2026-07-28,Food,131.75,Credit Card,Street Food,Coffee,Tuesday,No,2026-07
+TXN00857,2026-04-06,Food,174.08,Debit Card,Street Food,Coffee,Monday,No,2026-04
+TXN00196,2025-12-22,Education,6320.03,UPI,Learning Platform,College expense,Monday,No,2025-12
+TXN00116,2025-10-18,Shopping,492.67,UPI,Flipkart,Electronics,Saturday,Yes,2025-10
+TXN00654,2025-12-26,Food,220.17,UPI,Cafe,Snacks,Friday,No,2025-12
+TXN00427,2026-05-27,Shopping,260.14,Debit Card,Flipkart,Accessories,Wednesday,No,2026-05
+TXN00915,2025-09-25,Subscriptions,92.04,Credit Card,Software,Music plan,Thursday,No,2025-09
+TXN00527,2025-11-29,Travel,244.72,Debit Card,Flight,Hotel booking,Saturday,Yes,2025-11
+TXN01064,2025-11-02,Food,150.66,UPI,,Lunch,Sunday,Yes,2025-11
+TXN00888,2025-11-17,Subscriptions,182.66,UPI,Cloud Storage,Streaming plan,Monday,No,2025-11
+TXN00845,2026-02-17,Food,111.1,UPI,Cafe,Snacks,Tuesday,No,2026-02
+TXN00961,2025-10-10,Subscriptions,130.33,UPI,Software,Cloud storage,Friday,No,2025-10
+TXN00647,2026-07-14,Shopping,430.35,UPI,Flipkart,Online purchase,Tuesday,No,2026-07
+TXN00248,2026-07-05,Food,243.49,Cash,Local Restaurant,Breakfast,Sunday,Yes,2026-07
+TXN01129,2026-03-19,Transport,97.7,UPI,Fuel Station,Ride,Thursday,No,2026-03
+TXN00987,2026-04-13,Food,3245.9,UPI,Food Delivery,Coffee,Monday,No,2026-04
+TXN00144,2025-12-05,Food,207.69,Debit Card,Street Food,Snacks,Friday,No,2025-12
+TXN00749,2025-10-23,Shopping,343.46,Debit Card,Clothing Store,Household item,Thursday,No,2025-10
+TXN00929,2025-12-20,Shopping,97.87,Cash,Clothing Store,Online purchase,Saturday,Yes,2025-12
+TXN00737,2026-02-24,Food,217.75,Net Banking,Cafe,Breakfast,Tuesday,No,2026-02
+TXN01014,2025-12-10,Groceries,358.12,UPI,Local Grocery,Household supplies,Wednesday,No,2025-12
+TXN00625,2026-06-28,Subscriptions,113.05,Cash,Netflix,Cloud storage,Sunday,Yes,2026-06
+TXN00491,2026-04-11,Entertainment,257.23,Debit Card,Event,Movie,Saturday,Yes,2026-04
+TXN00607,2026-02-21,Education,72.17,Debit Card,Book Store,Books,Saturday,Yes,2026-02
+TXN00532,2025-12-14,Food,172.67,Debit Card,Food Delivery,Snacks,Sunday,Yes,2025-12
+TXN00901,2026-06-01,Groceries,265.18,UPI,Supermarket,Vegetables,Monday,No,2026-06
+TXN00720,2026-08-31,Groceries,139.57,Cash,Local Grocery,Household supplies,Monday,No,2026-08
+TXN00032,2026-02-17,Transport,55.29,UPI,Fuel Station,Fuel,Tuesday,No,2026-02
+TXN01008,2025-09-13,Food,170.87,Cash,Food Delivery,Coffee,Saturday,Yes,2025-09
+TXN00484,2026-05-08,Food,175.36,UPI,Cafe,Dinner,Friday,No,2026-05
+TXN01117,2026-06-19,Health,360.63,UPI,Hospital,Doctor visit,Friday,No,2026-06
+TXN01095,2026-08-19,Education,138.63,Cash,Book Store,Study material,Wednesday,No,2026-08
+TXN00362,2025-12-23,Food,162.38,Credit Card,Cafe,Lunch,Tuesday,No,2025-12
+TXN00367,2026-02-02,Education,360.34,Cash,Learning Platform,Study material,Monday,No,2026-02
+TXN00062,2025-10-20,Food,243.55,UPI,Street Food,Dinner,Monday,No,2025-10
+TXN00889,2026-04-04,Groceries,445.67,UPI,Local Grocery,Vegetables,Saturday,Yes,2026-04
+TXN01191,2025-09-25,Food,170.74,Debit Card,Local Restaurant,Snacks,Thursday,No,2025-09
+TXN00744,2026-08-17,Bills,721.41,UPI,Water Bill,Utility payment,Monday,No,2026-08
+TXN00308,2025-09-22,Education,367.85,Credit Card,Book Store,Course fee,Monday,No,2025-09
+TXN00681,2026-01-22,Food,199.65,Debit Card,Local Restaurant,Snacks,Thursday,No,2026-01
+TXN00850,2026-01-11,Groceries,303.23,UPI,Online Grocery,Vegetables,Sunday,Yes,2026-01
+TXN00576,2025-10-22,Subscriptions,136.85,UPI,Software,Software plan,Wednesday,No,2025-10
+TXN00350,2026-05-14,Education,613.34,UPI,Book Store,Course fee,Thursday,No,2026-05
+TXN01102,2026-04-04,Transport,99.43,Net Banking,Cab,Ride,Saturday,Yes,2026-04
+TXN00003,2026-05-29,Food,134.29,Credit Card,Cafe,Coffee,Friday,No,2026-05
+TXN00557,2026-04-05,Shopping,272.22,Debit Card,Flipkart,Online purchase,Sunday,Yes,2026-04
+TXN00310,2026-02-05,Groceries,347.98,UPI,Supermarket,Vegetables,Thursday,No,2026-02
+TXN00965,2025-09-06,Shopping,551.21,UPI,Clothing Store,Household item,Saturday,Yes,2025-09
+TXN01042,2026-06-18,Groceries,460.47,Debit Card,Local Grocery,Food supplies,Thursday,No,2026-06
+TXN00345,2026-03-07,Food,273.33,UPI,Food Delivery,Snacks,Saturday,Yes,2026-03
+TXN00766,2025-10-09,Bills,617.49,UPI,Water Bill,Water bill,Thursday,No,2025-10
+TXN00917,2025-09-13,Subscriptions,160.47,Debit Card,Software,Monthly subscription,Saturday,Yes,2025-09
+TXN00498,2025-09-16,Education,492.62,UPI,Book Store,Course fee,Tuesday,No,2025-09
+TXN01118,2026-06-09,Shopping,102.53,UPI,Flipkart,Electronics,Tuesday,No,2026-06
+TXN00954,2025-12-04,Education,153.01,UPI,Online Course,College expense,Thursday,No,2025-12
+TXN00863,2025-12-30,Transport,64.77,UPI,Bus,Fuel,Tuesday,No,2025-12
+TXN00759,2026-03-24,Food,180.32,Debit Card,Food Delivery,Dinner,Tuesday,No,2026-03
+TXN00246,2026-08-18,Bills,499.55,UPI,Internet Provider,Electricity bill,Tuesday,No,2026-08
+TXN00378,2026-07-03,Education,802.04,Credit Card,Learning Platform,Study material,Friday,No,2026-07
+TXN00807,2026-01-11,Food,169.63,Credit Card,Street Food,Lunch,Sunday,Yes,2026-01
+TXN01061,2026-01-03,Entertainment,324.74,UPI,Gaming,Movie,Saturday,Yes,2026-01
+TXN00921,2025-11-06,Bills,522.71,Cash,Electricity Board,Internet bill,Thursday,No,2025-11
+TXN00619,2026-08-31,Food,151.13,Credit Card,Cafe,Breakfast,Monday,No,2026-08
+TXN00268,2025-10-07,Groceries,228.74,UPI,Online Grocery,Food supplies,Tuesday,No,2025-10
+TXN00699,2026-08-23,Food,209.98,Debit Card,Street Food,Breakfast,Sunday,Yes,2026-08
+TXN00940,2026-07-12,Groceries,230.8,Cash,Online Grocery,Supermarket,Sunday,Yes,2026-07
+TXN00892,2025-09-14,Health,527.3,Credit Card,Pharmacy,Treatment,Sunday,Yes,2025-09
+TXN00731,2026-06-09,Entertainment,154.35,Net Banking,Event,Streaming,Tuesday,No,2026-06
+TXN00266,2026-05-12,Food,133.75,UPI,Street Food,Lunch,Tuesday,No,2026-05
+TXN00444,2026-01-07,Food,121.1,Debit Card,Local Restaurant,Coffee,Wednesday,No,2026-01
+TXN00825,2026-01-29,Subscriptions,297.14,UPI,Netflix,Cloud storage,Thursday,No,2026-01
+TXN00605,2026-04-18,Groceries,40.34,Credit Card,Online Grocery,Household supplies,Saturday,Yes,2026-04
+TXN00439,2026-04-17,Food,208.59,Debit Card,Local Restaurant,Snacks,Friday,No,2026-04
+TXN00578,2026-01-22,Food,165.7,UPI,Street Food,Dinner,Thursday,No,2026-01
+TXN00493,2026-01-25,Transport,113.1,UPI,Metro,Daily commute,Sunday,Yes,2026-01
+TXN01104,2025-09-15,Education,417.1,UPI,College Fee,College expense,Monday,No,2025-09
+TXN00632,2026-03-01,Travel,922.03,UPI,Hotel,Flight ticket,Sunday,Yes,2026-03
+TXN01024,2026-04-24,Entertainment,84.83,UPI,Streaming,Event ticket,Friday,No,2026-04
+TXN00132,2026-08-25,Subscriptions,171.57,Debit Card,Software,Software plan,Tuesday,No,2026-08
+TXN00904,2025-09-15,Food,145.5,Credit Card,Cafe,Lunch,Monday,No,2025-09
+TXN00887,2025-09-28,Bills,282.61,UPI,Internet Provider,Internet bill,Sunday,Yes,2025-09
+TXN00359,2026-08-26,Travel,1138.6,Debit Card,Flight,Flight ticket,Wednesday,No,2026-08
+TXN00454,2025-11-28,Education,380.88,Debit Card,Book Store,Study material,Friday,No,2025-11
+TXN01010,2026-01-08,Health,211.74,UPI,Diagnostic Center,Treatment,Thursday,No,2026-01
+TXN01143,2026-08-22,Bills,229.4,Cash,Internet Provider,Utility payment,Saturday,Yes,2026-08
+TXN00039,2025-10-25,Food,160.81,UPI,Cafe,Breakfast,Saturday,Yes,2025-10
+TXN00241,2026-01-26,Groceries,331.62,UPI,Supermarket,Household supplies,Monday,No,2026-01
+TXN00436,2025-12-01,Food,171.28,Debit Card,Cafe,Dinner,Monday,No,2025-12
+TXN00984,2026-07-21,Groceries,385.75,Cash,Online Grocery,Vegetables,Tuesday,No,2026-07
+TXN00923,2025-12-18,Food,165.09,UPI,Street Food,Coffee,Thursday,No,2025-12
+TXN01044,2026-02-12,Groceries,547.46,Credit Card,Supermarket,Food supplies,Thursday,No,2026-02
+TXN00871,2025-10-31,Food,138.77,UPI,Street Food,Dinner,Friday,No,2025-10
+TXN00201,2025-12-22,Entertainment,67.49,UPI,Streaming,Game,Monday,No,2025-12
+TXN00661,2026-07-14,Bills,439.06,UPI,Electricity Board,Internet bill,Tuesday,No,2026-07
+TXN00758,2026-02-20,Food,182.24,UPI,Food Delivery,Dinner,Friday,No,2026-02
+TXN00104,2025-11-20,Groceries,395.41,Debit Card,Local Grocery,Monthly groceries,Thursday,No,2025-11
+TXN00193,2025-12-05,Transport,88.21,UPI,Auto,Office/College travel,Friday,No,2025-12
+TXN00451,2026-01-04,Shopping,356.85,UPI,Local Store,Accessories,Sunday,Yes,2026-01
+TXN01076,2026-02-26,Travel,1034.54,Debit Card,Flight,Travel booking,Thursday,No,2026-02
+TXN00130,2026-04-06,Bills,244.58,UPI,Internet Provider,Mobile recharge,Monday,No,2026-04
+TXN00275,2026-03-27,Entertainment,260.05,UPI,Movie Theatre,Event ticket,Friday,No,2026-03
+TXN00271,2026-04-21,Groceries,259.53,UPI,Local Grocery,Monthly groceries,Tuesday,No,2026-04
+TXN00025,2026-07-11,Shopping,202.07,Net Banking,Amazon,Online purchase,Saturday,Yes,2026-07
+TXN00677,2026-01-21,Health,335.3,UPI,Clinic,Pharmacy,Wednesday,No,2026-01
+TXN00985,2026-06-02,Health,103.6,UPI,Pharmacy,Health checkup,Tuesday,No,2026-06
+TXN00059,2025-10-05,Food,272.81,Credit Card,Cafe,Lunch,Sunday,Yes,2025-10
+TXN00839,2025-10-31,Food,197.58,Debit Card,Street Food,Coffee,Friday,No,2025-10
+TXN01183,2026-08-13,Subscriptions,242.67,Debit Card,Cloud Storage,Software plan,Thursday,No,2026-08
+TXN01051,2026-04-25,Food,193.35,Cash,Food Delivery,Lunch,Saturday,Yes,2026-04
+TXN00641,2026-01-19,Groceries,299.83,UPI,Online Grocery,Monthly groceries,Monday,No,2026-01
+TXN00864,2026-04-02,Bills,544.15,UPI,Electricity Board,Utility payment,Thursday,No,2026-04
+TXN00105,2026-02-10,Food,126.94,Debit Card,Cafe,Lunch,Tuesday,No,2026-02
+TXN00087,2026-06-07,Transport,75.02,Debit Card,Fuel Station,Ride,Sunday,Yes,2026-06
+TXN00978,2025-09-26,Groceries,350.47,UPI,Local Grocery,Monthly groceries,Friday,No,2025-09
+TXN00971,2026-01-12,Education,46.24,Debit Card,Online Course,Study material,Monday,No,2026-01
+TXN01005,2026-05-19,Subscriptions,256.75,UPI,Netflix,Monthly subscription,Tuesday,No,2026-05
+TXN00346,2025-12-25,Subscriptions,115.64,Net Banking,Software,Monthly subscription,Thursday,No,2025-12
+TXN00714,2026-06-30,Groceries,236.84,UPI,Supermarket,Monthly groceries,Tuesday,No,2026-06
+TXN01093,2026-01-01,Entertainment,200.84,Cash,Streaming,Leisure,Thursday,No,2026-01
+TXN00795,2026-06-13,Subscriptions,258.22,Cash,Spotify,Streaming plan,Saturday,Yes,2026-06
+TXN01122,2026-01-26,Shopping,390.92,Cash,Amazon,Electronics,Monday,No,2026-01
+TXN00692,2025-11-29,Health,156.66,UPI,Pharmacy,Treatment,Saturday,Yes,2025-11
+TXN00422,2025-10-17,Groceries,329.77,UPI,Local Grocery,Household supplies,Friday,No,2025-10
+TXN00712,2026-05-14,Health,347.25,Credit Card,Diagnostic Center,Pharmacy,Thursday,No,2026-05
+TXN00732,2025-11-02,Food,260.78,UPI,Street Food,Coffee,Sunday,Yes,2025-11
+TXN00213,2026-04-13,Subscriptions,5687.66,Net Banking,Cloud Storage,Music plan,Monday,No,2026-04
+TXN00945,2026-06-04,Education,447.49,Debit Card,Book Store,Books,Thursday,No,2026-06
+TXN00659,2026-02-07,Shopping,211.16,Credit Card,Amazon,Accessories,Saturday,Yes,2026-02
+TXN01079,2025-12-20,Shopping,3850.59,Debit Card,Amazon,Electronics,Saturday,Yes,2025-12
+TXN00176,2026-06-10,Subscriptions,276.16,UPI,Software,Streaming plan,Wednesday,No,2026-06
+TXN00481,2026-04-10,Transport,139.78,UPI,Bus,Daily commute,Friday,No,2026-04
+TXN00529,2025-12-02,Food,165.21,UPI,Local Restaurant,Snacks,Tuesday,No,2025-12
+TXN00494,2025-12-05,Subscriptions,193.81,UPI,Spotify,Streaming plan,Friday,No,2025-12
+TXN00733,2026-04-05,Travel,753.53,UPI,Flight,Train ticket,Sunday,Yes,2026-04
+TXN00463,2025-11-15,Food,156.42,UPI,Street Food,Coffee,Saturday,Yes,2025-11
+TXN00092,2026-02-04,Groceries,298.64,UPI,Supermarket,Household supplies,Wednesday,No,2026-02
+TXN00997,2026-06-20,Food,245.89,UPI,Cafe,Lunch,Saturday,Yes,2026-06
+TXN01068,2026-04-13,Shopping,91.33,Debit Card,Clothing Store,Online purchase,Monday,No,2026-04
+TXN00982,2026-07-23,Food,183.86,UPI,Local Restaurant,Coffee,Thursday,No,2026-07
+TXN00903,2026-04-15,Groceries,628.95,UPI,Local Grocery,Vegetables,Wednesday,No,2026-04
+TXN01077,2025-10-12,Groceries,197.13,UPI,Supermarket,Food supplies,Sunday,Yes,2025-10
+TXN00035,2026-03-09,Food,171.88,Net Banking,Local Restaurant,Coffee,Monday,No,2026-03
+TXN00001,2025-12-12,Food,189.03,UPI,Cafe,Snacks,Friday,No,2025-12
+TXN00486,2026-05-04,Transport,89.6,UPI,Fuel Station,Daily commute,Monday,No,2026-05
+TXN00071,2025-10-14,Entertainment,226.37,UPI,Streaming,Streaming,Tuesday,No,2025-10
+TXN00218,2026-04-06,Shopping,164.48,Debit Card,Flipkart,Household item,Monday,No,2026-04
+TXN00844,2025-12-01,Groceries,343.91,UPI,Supermarket,Supermarket,Monday,No,2025-12
+TXN01003,2026-02-25,Shopping,253.63,Debit Card,Local Store,Electronics,Wednesday,No,2026-02
+TXN00421,2026-08-16,Transport,86.37,UPI,Metro,Ride,Sunday,Yes,2026-08
+TXN01099,2026-06-30,Bills,437.16,UPI,,Internet bill,Tuesday,No,2026-06
+TXN01176,2025-11-02,Shopping,205.8,Credit Card,Amazon,Online purchase,Sunday,Yes,2025-11
+TXN00235,2026-03-20,Subscriptions,161.2,Net Banking,Cloud Storage,Streaming plan,Friday,No,2026-03
+TXN00231,2026-03-17,Transport,93.09,UPI,Cab,,Tuesday,No,2026-03
+TXN00739,2025-12-14,Health,147.42,Net Banking,Clinic,Health checkup,Sunday,Yes,2025-12
+TXN00055,2025-10-23,Education,246.44,Cash,Book Store,Books,Thursday,No,2025-10
+TXN01041,2026-06-13,Education,412.72,UPI,College Fee,Course fee,Saturday,Yes,2026-06
+TXN00138,2026-02-26,Food,188.57,UPI,Cafe,Snacks,Thursday,No,2026-02
+TXN00755,2025-11-17,Travel,1050.67,Debit Card,Flight,Trip expense,Monday,No,2025-11
+TXN00773,2026-05-26,Entertainment,234.69,UPI,Event,Event ticket,Tuesday,No,2026-05
+TXN01152,2025-10-21,Food,255.83,UPI,Local Restaurant,Snacks,Tuesday,No,2025-10
+TXN00942,2026-04-17,Groceries,767.94,UPI,Online Grocery,Vegetables,Friday,No,2026-04
+TXN01151,2026-06-14,Groceries,522.32,UPI,Local Grocery,Supermarket,Sunday,Yes,2026-06
+TXN00030,2025-10-19,Subscriptions,162.34,Debit Card,Cloud Storage,Streaming plan,Sunday,Yes,2025-10
+TXN00633,2026-02-14,Groceries,473.53,Credit Card,Online Grocery,Monthly groceries,Saturday,Yes,2026-02
+TXN00322,2026-06-11,Food,164.98,Cash,Cafe,Coffee,Thursday,No,2026-06
+TXN00745,2026-01-11,Subscriptions,179.61,UPI,Netflix,Streaming plan,Sunday,Yes,2026-01
+TXN01059,2026-06-15,Shopping,136.1,UPI,Amazon,Clothes,Monday,No,2026-06
+TXN00008,2025-12-12,Subscriptions,154.31,UPI,Netflix,Monthly subscription,Friday,No,2025-12
+TXN00860,2026-06-09,Entertainment,51.47,Debit Card,Streaming,Event ticket,Tuesday,No,2026-06
+TXN01016,2026-05-31,Transport,31.36,UPI,Metro,Ride,Sunday,Yes,2026-05
+TXN01032,2025-10-30,Food,128.8,Credit Card,Street Food,Snacks,Thursday,No,2025-10
+TXN00357,2025-10-28,Subscriptions,197.76,Cash,Spotify,Monthly subscription,Tuesday,No,2025-10
+TXN00276,2026-01-09,Entertainment,126.35,Cash,Movie Theatre,Leisure,Friday,No,2026-01
+TXN01034,2026-08-15,Groceries,349.09,UPI,Supermarket,Vegetables,Saturday,Yes,2026-08
+TXN01074,2026-01-12,Shopping,383.67,Net Banking,Local Store,Accessories,Monday,No,2026-01
+TXN01137,2025-12-13,Transport,131.89,UPI,Bus,Office/College travel,Saturday,Yes,2025-12
+TXN00227,2026-06-21,Transport,119.35,Debit Card,Fuel Station,Public transport,Sunday,Yes,2026-06
+TXN00107,2026-05-19,Food,159.09,Cash,Cafe,Lunch,Tuesday,No,2026-05
+TXN00465,2026-01-22,Education,168.41,Debit Card,Learning Platform,Study material,Thursday,No,2026-01
+TXN00404,2026-08-08,Groceries,470.74,UPI,Local Grocery,Supermarket,Saturday,Yes,2026-08
+TXN00306,2025-10-03,Groceries,389.22,UPI,Online Grocery,Food supplies,Friday,No,2025-10
+TXN00507,2026-02-10,Shopping,199.02,UPI,Local Store,Clothes,Tuesday,No,2026-02
+TXN00259,2026-05-10,Groceries,345.35,UPI,Online Grocery,Food supplies,Sunday,Yes,2026-05
+TXN00774,2025-10-24,Transport,62.19,UPI,Cab,Public transport,Friday,No,2025-10
+TXN00829,2025-09-08,Food,216.51,Cash,Cafe,Coffee,Monday,No,2025-09
+TXN00363,2026-06-15,Food,192.11,Net Banking,Cafe,Snacks,Monday,No,2026-06
+TXN00258,2026-05-21,Food,184.89,UPI,Street Food,Dinner,Thursday,No,2026-05
+TXN00393,2026-04-03,Food,209.52,Credit Card,Cafe,Dinner,Friday,No,2026-04
+TXN00412,2026-05-22,Bills,555.77,Credit Card,Water Bill,Electricity bill,Friday,No,2026-05
+TXN00280,2026-02-08,Food,191.71,UPI,Local Restaurant,Dinner,Sunday,Yes,2026-02
+TXN00875,2026-05-15,Food,210.69,Net Banking,Food Delivery,Lunch,Friday,No,2026-05
+TXN00429,2025-12-15,Health,305.7,Cash,Hospital,Pharmacy,Monday,No,2025-12
+TXN00922,2026-04-21,Groceries,485.55,Net Banking,Local Grocery,Monthly groceries,Tuesday,No,2026-04
+TXN00907,2025-09-28,Food,162.58,UPI,Food Delivery,Snacks,Sunday,Yes,2025-09
+TXN00776,2026-04-10,Education,341.8,Debit Card,Learning Platform,Course fee,Friday,No,2026-04
+TXN00540,2026-02-11,Entertainment,164.72,UPI,Event,Movie,Wednesday,No,2026-02
+TXN00948,2025-12-21,Health,298.89,Credit Card,Hospital,Pharmacy,Sunday,Yes,2025-12
+TXN00786,2025-11-14,Education,545.4,UPI,Book Store,Study material,Friday,No,2025-11
+TXN00184,2026-07-15,Subscriptions,67.86,UPI,Cloud Storage,Streaming plan,Wednesday,No,2026-07
+TXN00244,2026-01-25,Groceries,259.0,UPI,Local Grocery,Supermarket,Sunday,Yes,2026-01
+TXN00209,2026-04-08,Groceries,394.68,Cash,Online Grocery,Vegetables,Wednesday,No,2026-04
+TXN00043,2026-07-04,Food,221.37,UPI,Food Delivery,Snacks,Saturday,Yes,2026-07
+TXN00545,2025-12-08,Education,303.59,Credit Card,Online Course,Books,Monday,No,2025-12
+TXN00998,2026-01-17,Transport,144.89,UPI,Cab,Fuel,Saturday,Yes,2026-01
+TXN00920,2025-11-07,Entertainment,207.2,UPI,Event,Leisure,Friday,No,2025-11
+TXN00980,2026-06-27,Shopping,370.91,UPI,Clothing Store,Accessories,Saturday,Yes,2026-06
+TXN01088,2026-03-15,Bills,198.15,UPI,Water Bill,Electricity bill,Sunday,Yes,2026-03
+TXN00264,2025-09-02,Subscriptions,186.5,UPI,Cloud Storage,Music plan,Tuesday,No,2025-09
+TXN01055,2026-07-25,Entertainment,316.0,UPI,Event,Movie,Saturday,Yes,2026-07
+TXN01185,2026-01-06,Shopping,290.38,Net Banking,Amazon,Electronics,Tuesday,No,2026-01
+TXN00089,2026-05-10,Health,329.28,Debit Card,Clinic,Doctor visit,Sunday,Yes,2026-05
+TXN00330,2025-09-17,Transport,115.0,UPI,Auto,Ride,Wednesday,No,2025-09
+TXN00405,2026-07-02,Groceries,483.44,Credit Card,Supermarket,Food supplies,Thursday,No,2026-07
+TXN00637,2025-09-19,Groceries,288.86,Cash,Online Grocery,Vegetables,Friday,No,2025-09
+TXN01025,2026-07-31,Subscriptions,136.3,Debit Card,Netflix,Music plan,Friday,No,2026-07
+TXN00663,2026-01-27,Food,268.94,Credit Card,Street Food,Coffee,Tuesday,No,2026-01
+TXN01144,2026-07-21,Bills,686.7,Debit Card,Electricity Board,Mobile recharge,Tuesday,No,2026-07
+TXN00893,2026-03-06,Entertainment,117.12,Debit Card,Event,Game,Friday,No,2026-03
+TXN00073,2026-03-21,Health,245.27,UPI,Pharmacy,Treatment,Saturday,Yes,2026-03
+TXN00630,2026-06-02,Groceries,349.9,Cash,Online Grocery,Monthly groceries,Tuesday,No,2026-06
+TXN00136,2026-08-12,Transport,106.83,UPI,Bus,Office/College travel,Wednesday,No,2026-08
+TXN00321,2025-12-06,Groceries,447.57,Credit Card,Online Grocery,Monthly groceries,Saturday,Yes,2025-12
+TXN00480,2026-05-12,Food,188.71,UPI,Local Restaurant,Breakfast,Tuesday,No,2026-05
+TXN01196,2026-02-24,Shopping,225.81,Debit Card,Amazon,Electronics,Tuesday,No,2026-02
+TXN00861,2026-05-07,Subscriptions,302.47,Credit Card,Spotify,Monthly subscription,Thursday,No,2026-05
+TXN00157,2025-11-25,Subscriptions,106.24,UPI,Software,Streaming plan,Tuesday,No,2025-11
+TXN00240,2026-05-17,Subscriptions,110.9,UPI,Software,Streaming plan,Sunday,Yes,2026-05
+TXN00248,2026-07-05,Food,243.49,Cash,Local Restaurant,Breakfast,Sunday,Yes,2026-07
+TXN00100,2026-01-07,Entertainment,145.47,UPI,Gaming,Movie,Wednesday,No,2026-01
+TXN00655,2026-01-12,Health,62.55,Cash,Hospital,Treatment,Monday,No,2026-01
+TXN00499,2026-06-07,Food,173.72,Debit Card,Food Delivery,Snacks,Sunday,Yes,2026-06
+TXN00018,2026-07-06,Bills,790.35,Cash,Water Bill,Electricity bill,Monday,No,2026-07
+TXN01136,2026-01-19,Subscriptions,33.0,UPI,Software,Streaming plan,Monday,No,2026-01
+TXN00900,2026-04-27,Shopping,343.15,UPI,Local Store,Accessories,Monday,No,2026-04
+TXN00908,2026-03-21,Transport,108.41,Credit Card,Cab,Public transport,Saturday,Yes,2026-03
+TXN01085,2025-12-06,Groceries,414.85,UPI,Online Grocery,Household supplies,Saturday,Yes,2025-12
+TXN00217,2026-02-19,Groceries,305.33,Debit Card,Online Grocery,Vegetables,Thursday,No,2026-02
+TXN00134,2026-03-26,Food,218.13,UPI,Local Restaurant,Coffee,Thursday,No,2026-03
+TXN00788,2026-03-11,Entertainment,43.41,Net Banking,Streaming,Game,Wednesday,No,2026-03
+TXN00556,2026-06-06,Groceries,269.7,Net Banking,Local Grocery,Household supplies,Saturday,Yes,2026-06
+TXN01157,2026-05-25,Subscriptions,156.54,Credit Card,Cloud Storage,Music plan,Monday,No,2026-05
+TXN00488,2025-12-09,Groceries,331.2,UPI,Online Grocery,Supermarket,Tuesday,No,2025-12
+TXN00269,2026-02-07,Education,455.11,UPI,Learning Platform,Certification,Saturday,Yes,2026-02
+TXN01002,2026-02-08,Shopping,306.7,UPI,Clothing Store,Clothes,Sunday,Yes,2026-02
+TXN00873,2025-09-26,Groceries,340.6,Debit Card,Supermarket,Household supplies,Friday,No,2025-09
+TXN00109,2025-10-11,Groceries,389.66,Credit Card,Supermarket,Supermarket,Saturday,Yes,2025-10
+TXN00174,2026-03-09,Food,97.62,UPI,Food Delivery,Breakfast,Monday,No,2026-03
+TXN01071,2025-12-13,Transport,78.23,UPI,Bus,Ride,Saturday,Yes,2025-12
+TXN00460,2026-06-05,Education,30.0,Cash,Book Store,Course fee,Friday,No,2026-06
+TXN01106,2026-01-14,Bills,476.91,Debit Card,Water Bill,Electricity bill,Wednesday,No,2026-01
+TXN01147,2026-07-25,Travel,1105.16,Credit Card,Train,Flight ticket,Saturday,Yes,2026-07
+TXN00047,2026-02-14,Education,228.43,Net Banking,Book Store,Certification,Saturday,Yes,2026-02
+TXN00034,2026-05-29,Shopping,250.66,Credit Card,Amazon,Household item,Friday,No,2026-05
+TXN00386,2026-05-22,Health,231.65,UPI,Hospital,Pharmacy,Friday,No,2026-05
+TXN00821,2025-10-13,Health,126.17,Credit Card,Pharmacy,Health checkup,Monday,No,2025-10
+TXN00518,2026-06-12,Shopping,131.38,UPI,Amazon,Electronics,Friday,No,2026-06
+TXN00657,2025-10-14,Health,221.86,Net Banking,Diagnostic Center,Treatment,Tuesday,No,2025-10
+TXN00609,2026-02-15,Subscriptions,149.95,UPI,Netflix,Monthly subscription,Sunday,Yes,2026-02
+TXN00123,2026-04-02,Transport,132.22,Credit Card,Fuel Station,Fuel,Thursday,No,2026-04
+TXN00279,2025-12-29,Transport,120.1,Credit Card,Fuel Station,Office/College travel,Monday,No,2025-12
+TXN00167,2025-10-14,Education,456.03,UPI,College Fee,Books,Tuesday,No,2025-10
+TXN01098,2026-02-06,Groceries,130.93,Debit Card,Online Grocery,Vegetables,Friday,No,2026-02
+TXN00495,2026-05-15,Subscriptions,136.76,Debit Card,Netflix,Music plan,Friday,No,2026-05
+TXN00459,2025-11-08,Health,216.68,Debit Card,Clinic,Health checkup,Saturday,Yes,2025-11
+TXN00694,2026-03-05,Transport,111.2,Debit Card,Bus,Fuel,Thursday,No,2026-03
+TXN00778,2026-07-10,Education,322.94,Cash,College Fee,Certification,Friday,No,2026-07
+TXN00858,2026-06-28,Food,217.17,UPI,Street Food,Dinner,Sunday,Yes,2026-06
+TXN00506,2026-02-25,Shopping,113.51,Debit Card,Clothing Store,Accessories,Wednesday,No,2026-02
+TXN01101,2026-08-31,Food,210.56,UPI,Food Delivery,Snacks,Monday,No,2026-08
+TXN00853,2026-08-12,Shopping,257.17,UPI,Flipkart,Electronics,Wednesday,No,2026-08
+TXN00399,2026-03-09,Subscriptions,125.9,Cash,Netflix,Cloud storage,Monday,No,2026-03
+TXN00060,2026-03-25,Food,131.96,UPI,Local Restaurant,Dinner,Wednesday,No,2026-03
+TXN00141,2026-04-19,Transport,127.96,UPI,Auto,Daily commute,Sunday,Yes,2026-04
+TXN01199,2026-01-28,Transport,107.84,Credit Card,Cab,Ride,Wednesday,No,2026-01
+TXN00568,2026-02-24,Groceries,234.01,Debit Card,Local Grocery,Food supplies,Tuesday,No,2026-02
+TXN00230,2025-12-07,Transport,141.33,UPI,Bus,Fuel,Sunday,Yes,2025-12
+TXN00703,2026-01-23,Entertainment,275.53,Credit Card,Streaming,Game,Friday,No,2026-01
+TXN00195,2026-02-27,Food,146.59,UPI,Cafe,Dinner,Friday,No,2026-02
+TXN00569,2025-12-09,Entertainment,171.74,UPI,Event,Streaming,Tuesday,No,2025-12
+TXN00293,2026-03-13,Food,166.14,Cash,Street Food,Coffee,Friday,No,2026-03
+TXN01158,2026-05-15,Food,195.41,Net Banking,Food Delivery,Dinner,Friday,No,2026-05
+TXN00169,2026-06-13,Transport,116.64,Debit Card,Fuel Station,Office/College travel,Saturday,Yes,2026-06
+TXN01123,2025-09-11,Groceries,631.72,Net Banking,Online Grocery,Household supplies,Thursday,No,2025-09
+TXN00876,2025-09-08,Subscriptions,284.11,UPI,Spotify,Software plan,Monday,No,2025-09
+TXN00856,2025-11-17,Food,163.37,Credit Card,Local Restaurant,Snacks,Monday,No,2025-11
+TXN00680,2026-05-17,Subscriptions,7478.82,Debit Card,Netflix,Cloud storage,Sunday,Yes,2026-05
+TXN00589,2025-10-12,Health,189.58,Net Banking,Clinic,Medicine,Sunday,Yes,2025-10
+TXN01159,2026-06-29,Food,249.94,UPI,Local Restaurant,Lunch,Monday,No,2026-06
+TXN00784,2026-08-07,Subscriptions,257.89,Debit Card,Software,Streaming plan,Friday,No,2026-08
+TXN00992,2025-09-01,Health,31.68,Debit Card,Pharmacy,Health checkup,Monday,No,2025-09
+TXN00760,2026-05-18,Groceries,257.56,UPI,Supermarket,Household supplies,Monday,No,2026-05
+TXN00223,2026-03-22,Groceries,250.82,UPI,Local Grocery,Monthly groceries,Sunday,Yes,2026-03
+TXN00323,2026-07-14,Transport,151.06,Cash,Fuel Station,Ride,Tuesday,No,2026-07
+TXN00069,2026-03-10,Transport,151.56,UPI,Auto,Daily commute,Tuesday,No,2026-03
+TXN00832,2026-06-08,Groceries,565.31,UPI,Supermarket,Supermarket,Monday,No,2026-06
+TXN00315,2026-05-22,Health,208.51,Credit Card,Clinic,Treatment,Friday,No,2026-05
+TXN00916,2026-01-23,Groceries,463.85,UPI,Online Grocery,Vegetables,Friday,No,2026-01
+TXN00233,2026-01-22,Food,252.55,Net Banking,Local Restaurant,Breakfast,Thursday,No,2026-01
+TXN00177,2025-12-30,Food,173.81,Debit Card,Food Delivery,Breakfast,Tuesday,No,2025-12
+TXN00535,2025-12-23,Transport,135.93,UPI,Bus,Public transport,Tuesday,No,2025-12
+TXN01165,2025-09-01,Transport,30.0,Credit Card,Fuel Station,Daily commute,Monday,No,2025-09
+TXN00928,2025-10-04,Bills,644.04,UPI,Internet Provider,Internet bill,Saturday,Yes,2025-10
+TXN00482,2026-08-23,Food,173.82,Cash,Food Delivery,Dinner,Sunday,Yes,2026-08
+TXN00175,2026-04-13,Education,381.79,Credit Card,College Fee,Certification,Monday,No,2026-04
+TXN00780,2026-05-13,Travel,833.89,Debit Card,Hotel,Hotel booking,Wednesday,No,2026-05
+TXN01001,2026-05-17,Shopping,304.65,Debit Card,Amazon,Clothes,Sunday,Yes,2026-05
+TXN00358,2026-07-20,Subscriptions,212.74,Credit Card,Spotify,Streaming plan,Monday,No,2026-07
+TXN00027,2026-05-11,Food,185.52,Debit Card,Cafe,Coffee,Monday,No,2026-05
+TXN00510,2025-12-10,Food,245.36,Credit Card,Local Restaurant,Lunch,Wednesday,No,2025-12
+TXN00947,2025-11-09,Health,274.61,UPI,Hospital,Treatment,Sunday,Yes,2025-11
+TXN01124,2026-05-12,Shopping,382.85,UPI,Amazon,Online purchase,Tuesday,No,2026-05
+TXN00298,2026-02-08,Bills,382.34,Cash,Water Bill,Utility payment,Sunday,Yes,2026-02
+TXN00313,2026-08-31,Education,230.18,UPI,Learning Platform,Certification,Monday,No,2026-08
+TXN00300,2026-06-16,Entertainment,115.53,Credit Card,Gaming,Movie,Tuesday,No,2026-06
+TXN00988,2025-09-20,Subscriptions,225.58,Net Banking,Software,Cloud storage,Saturday,Yes,2025-09
+TXN00045,2025-09-21,Groceries,612.26,Credit Card,Supermarket,Household supplies,Sunday,Yes,2025-09
+TXN00550,2026-03-09,Bills,549.27,UPI,Water Bill,Internet bill,Monday,No,2026-03
+TXN00398,2025-11-02,Bills,590.55,UPI,Water Bill,Mobile recharge,Sunday,Yes,2025-11
+TXN00969,2025-09-04,Food,225.96,Credit Card,Local Restaurant,Dinner,Thursday,No,2025-09
+TXN00687,2026-02-03,Transport,47.75,UPI,Metro,Public transport,Tuesday,No,2026-02
+TXN00179,2026-04-21,Subscriptions,292.86,UPI,Spotify,Software plan,Tuesday,No,2026-04
+TXN00793,2025-12-07,Education,325.6,UPI,Online Course,Study material,Sunday,Yes,2025-12
+TXN00981,2026-01-11,Food,134.37,UPI,Food Delivery,Lunch,Sunday,Yes,2026-01
+TXN00657,2025-10-14,Health,221.86,Net Banking,Diagnostic Center,Treatment,Tuesday,No,2025-10
+TXN00113,2026-07-25,Food,219.21,UPI,Food Delivery,Breakfast,Saturday,Yes,2026-07
+TXN00044,2026-01-13,Food,149.93,Credit Card,Street Food,Breakfast,Tuesday,No,2026-01
+TXN00566,2026-03-06,Bills,688.18,UPI,Water Bill,Mobile recharge,Friday,No,2026-03
+TXN00172,2026-08-14,Subscriptions,227.45,Cash,Software,Monthly subscription,Friday,No,2026-08
+TXN00989,2025-12-22,Groceries,470.18,Credit Card,Local Grocery,Household supplies,Monday,No,2025-12
+TXN00024,2026-02-08,Bills,276.15,UPI,Internet Provider,Water bill,Sunday,Yes,2026-02
+TXN01141,2026-07-13,Food,267.94,UPI,Local Restaurant,Breakfast,Monday,No,2026-07
+TXN00879,2026-05-11,Subscriptions,214.98,Credit Card,Spotify,Monthly subscription,Monday,No,2026-05
+TXN00658,2026-02-20,Bills,248.29,UPI,Electricity Board,Electricity bill,Friday,No,2026-02
+TXN00153,2026-02-07,Transport,109.32,UPI,Cab,Ride,Saturday,Yes,2026-02
+TXN00057,2025-12-01,Transport,76.57,UPI,Auto,Fuel,Monday,No,2025-12
+TXN00906,2025-12-28,Bills,574.73,UPI,Mobile Provider,Internet bill,Sunday,Yes,2025-12
+TXN00282,2025-11-14,Subscriptions,236.76,UPI,Spotify,Monthly subscription,Friday,No,2025-11
+TXN01145,2026-01-11,Food,268.32,Debit Card,Street Food,Breakfast,Sunday,Yes,2026-01
+TXN00756,2025-09-01,Entertainment,226.02,Cash,Movie Theatre,Game,Monday,No,2025-09
+TXN00649,2025-09-01,Shopping,36.02,Credit Card,Clothing Store,Electronics,Monday,No,2025-09
+TXN00013,2025-12-09,Food,199.65,Debit Card,Food Delivery,Lunch,Tuesday,No,2025-12
+TXN00050,2026-07-13,Transport,139.85,Debit Card,Auto,Public transport,Monday,No,2026-07
+TXN00648,2026-08-27,Education,203.93,UPI,College Fee,Course fee,Thursday,No,2026-08
+TXN00255,2026-01-29,Transport,88.56,Debit Card,Fuel Station,Fuel,Thursday,No,2026-01
+TXN00159,2025-11-05,Subscriptions,246.52,UPI,Software,Monthly subscription,Wednesday,No,2025-11
+TXN01188,2026-02-26,Subscriptions,211.83,Credit Card,Software,Monthly subscription,Thursday,No,2026-02
+TXN00606,2025-09-07,Food,249.0,Cash,Cafe,Snacks,Sunday,Yes,2025-09
+TXN00390,2026-08-20,Shopping,396.05,Debit Card,Clothing Store,Electronics,Thursday,No,2026-08
+TXN00402,2026-07-11,Groceries,156.85,Credit Card,Online Grocery,Household supplies,Saturday,Yes,2026-07
+TXN01096,2025-12-27,Groceries,75.23,UPI,Supermarket,Food supplies,Saturday,Yes,2025-12
+TXN01036,2026-05-25,Entertainment,233.47,UPI,Movie Theatre,Leisure,Monday,No,2026-05
+TXN00212,2026-04-12,Entertainment,189.2,Cash,Streaming,Leisure,Sunday,Yes,2026-04
+TXN00200,2026-06-22,Transport,85.77,UPI,Metro,Office/College travel,Monday,No,2026-06
+TXN00125,2026-04-15,Transport,124.34,Cash,Bus,Fuel,Wednesday,No,2026-04
+TXN00869,2026-07-16,Health,118.11,UPI,Pharmacy,Doctor visit,Thursday,No,2026-07
+TXN00288,2025-12-21,Shopping,395.2,UPI,Amazon,Household item,Sunday,Yes,2025-12
+TXN00085,2026-08-04,Shopping,415.64,UPI,Amazon,Clothes,Tuesday,No,2026-08
+TXN00208,2026-01-08,Food,146.15,Net Banking,Cafe,Breakfast,Thursday,No,2026-01
+TXN00754,2025-11-24,Food,163.93,UPI,Food Delivery,Dinner,Monday,No,2025-11
+TXN00450,2025-12-05,Food,157.88,UPI,Street Food,Lunch,Friday,No,2025-12
+TXN00742,2025-09-06,Shopping,353.47,UPI,Flipkart,Clothes,Saturday,Yes,2025-09
+TXN00066,2025-12-15,Groceries,409.96,UPI,Online Grocery,Food supplies,Monday,No,2025-12
+TXN01169,2026-07-06,Food,197.38,UPI,Food Delivery,Dinner,Monday,No,2026-07
+TXN00555,2025-09-13,Transport,97.61,Cash,Cab,Public transport,Saturday,Yes,2025-09
+TXN00126,2025-12-10,Shopping,2860.2,Cash,Amazon,Online purchase,Wednesday,No,2025-12
+TXN00709,2025-10-05,Food,153.11,Cash,Food Delivery,Breakfast,Sunday,Yes,2025-10
+TXN00803,2026-05-05,Entertainment,207.5,Debit Card,Event,Game,Tuesday,No,2026-05
+TXN01078,2025-09-15,Entertainment,251.22,UPI,Event,Movie,Monday,No,2025-09
+TXN00541,2026-08-23,Food,288.57,Net Banking,Local Restaurant,Dinner,Sunday,Yes,2026-08
+TXN00095,2025-11-04,Food,252.69,Debit Card,Street Food,Coffee,Tuesday,No,2025-11
+TXN00250,2025-10-09,Transport,110.66,Credit Card,Bus,Daily commute,Thursday,No,2025-10
+TXN00354,2026-06-08,Health,206.23,UPI,Hospital,Medicine,Monday,No,2026-06
+TXN00626,2026-01-10,Food,201.26,Credit Card,Local Restaurant,Breakfast,Saturday,Yes,2026-01
+TXN00838,2026-02-07,Shopping,300.87,Debit Card,Local Store,Clothes,Saturday,Yes,2026-02
+TXN00748,2025-09-23,Shopping,213.55,UPI,Local Store,Household item,Tuesday,No,2025-09
+TXN00397,2026-03-05,Groceries,507.38,UPI,Online Grocery,Food supplies,Thursday,No,2026-03
+TXN00962,2026-04-17,Travel,83.67,UPI,Travel Agency,Train ticket,Friday,No,2026-04
+TXN00792,2026-07-03,Shopping,194.21,Credit Card,Flipkart,Electronics,Friday,No,2026-07
+TXN01128,2026-01-12,Shopping,262.87,Cash,Amazon,Clothes,Monday,No,2026-01
+TXN00023,2026-06-04,Entertainment,128.32,UPI,Movie Theatre,Game,Thursday,No,2026-06
+TXN00292,2026-08-04,Bills,381.31,UPI,Electricity Board,Mobile recharge,Tuesday,No,2026-08
+TXN00407,2026-02-17,Food,212.63,UPI,Local Restaurant,Breakfast,Tuesday,No,2026-02
+TXN00979,2026-02-20,Health,262.62,UPI,Pharmacy,Treatment,Friday,No,2026-02
+TXN00183,2026-01-15,Subscriptions,185.28,Cash,Cloud Storage,Monthly subscription,Thursday,No,2026-01
+TXN00222,2026-07-21,Subscriptions,175.75,UPI,Cloud Storage,Music plan,Tuesday,No,2026-07
+TXN00369,2025-12-13,Transport,149.41,UPI,Cab,Office/College travel,Saturday,Yes,2025-12
+TXN00717,2026-06-13,Health,274.39,Credit Card,Diagnostic Center,Health checkup,Saturday,Yes,2026-06
+TXN00934,2025-12-10,Subscriptions,162.15,UPI,Cloud Storage,Music plan,Wednesday,No,2025-12
+TXN00651,2026-03-09,Transport,86.04,UPI,Cab,Public transport,Monday,No,2026-03
+TXN01087,2026-05-12,Entertainment,247.85,Debit Card,Movie Theatre,Streaming,Tuesday,No,2026-05
+TXN01134,2026-08-29,Bills,168.12,Debit Card,Internet Provider,Water bill,Saturday,Yes,2026-08
+TXN01156,2026-04-02,Education,215.04,UPI,Book Store,Course fee,Thursday,No,2026-04
+TXN01120,2026-06-10,Groceries,536.05,UPI,Supermarket,Monthly groceries,Wednesday,No,2026-06
+TXN00728,2026-02-24,Food,171.76,UPI,Cafe,Lunch,Tuesday,No,2026-02
+TXN01184,2025-09-17,Food,151.58,UPI,Food Delivery,Snacks,Wednesday,No,2025-09
+TXN00684,2026-04-12,Food,131.8,Cash,Local Restaurant,Coffee,Sunday,Yes,2026-04
+TXN00615,2025-09-29,Food,188.54,UPI,Food Delivery,Snacks,Monday,No,2025-09
+TXN00528,2026-05-22,Groceries,6513.94,Credit Card,Local Grocery,Food supplies,Friday,No,2026-05
+TXN00249,2026-01-06,Subscriptions,173.1,UPI,Spotify,Streaming plan,Tuesday,No,2026-01
+TXN00262,2025-12-21,Subscriptions,48.27,UPI,Netflix,Software plan,Sunday,Yes,2025-12
+TXN00392,2026-06-15,Transport,30.0,Net Banking,Auto,Public transport,Monday,No,2026-06
+TXN00973,2025-12-03,Transport,175.48,Debit Card,Auto,Daily commute,Wednesday,No,2025-12
+TXN00618,2026-01-14,Education,303.06,UPI,College Fee,Certification,Wednesday,No,2026-01
+TXN00121,2026-02-19,Food,195.78,UPI,Local Restaurant,Coffee,Thursday,No,2026-02
+TXN00877,2025-12-22,Food,153.9,Debit Card,Local Restaurant,Breakfast,Monday,No,2025-12
+TXN01112,2026-02-20,Transport,101.46,UPI,Bus,Office/College travel,Friday,No,2026-02
+TXN00408,2026-07-23,Food,203.23,Net Banking,Food Delivery,Coffee,Thursday,No,2026-07
+TXN00226,2026-05-13,Travel,30.0,Credit Card,Train,Hotel booking,Wednesday,No,2026-05
+TXN00349,2026-02-08,Transport,148.53,Debit Card,Fuel Station,Daily commute,Sunday,Yes,2026-02
+TXN00277,2026-01-30,Food,8760.53,Cash,Local Restaurant,Snacks,Friday,No,2026-01
+TXN00186,2026-04-13,Bills,268.22,Debit Card,Water Bill,Utility payment,Monday,No,2026-04
+TXN00356,2025-10-24,Groceries,139.58,Net Banking,Local Grocery,Supermarket,Friday,No,2025-10
+TXN00274,2026-07-01,Entertainment,253.53,UPI,Movie Theatre,Game,Wednesday,No,2026-07
+TXN00624,2026-04-05,Education,93.08,Debit Card,Learning Platform,College expense,Sunday,Yes,2026-04
+TXN00963,2025-10-06,Shopping,233.96,Net Banking,Amazon,Accessories,Monday,No,2025-10
+TXN01173,2025-12-26,Groceries,284.79,UPI,Online Grocery,Household supplies,Friday,No,2025-12
+TXN00571,2025-11-15,Food,172.09,Debit Card,Cafe,Coffee,Saturday,Yes,2025-11
+TXN00643,2026-04-08,Entertainment,239.54,Credit Card,Gaming,Event ticket,Wednesday,No,2026-04
+TXN00170,2026-07-28,Bills,600.19,Net Banking,Electricity Board,Electricity bill,Tuesday,No,2026-07
+TXN00342,2026-02-28,Shopping,349.75,UPI,Flipkart,Accessories,Saturday,Yes,2026-02
+TXN00290,2026-01-31,Transport,95.62,UPI,Cab,Office/College travel,Saturday,Yes,2026-01
+TXN00824,2026-05-07,Bills,371.1,Net Banking,Internet Provider,Mobile recharge,Thursday,No,2026-05
+TXN00012,2025-11-27,Travel,30.0,Debit Card,Flight,Travel booking,Thursday,No,2025-11
+TXN00205,2026-03-06,Groceries,361.54,UPI,Online Grocery,Supermarket,Friday,No,2026-03
+TXN00318,2026-04-14,Groceries,573.81,UPI,Supermarket,Monthly groceries,Tuesday,No,2026-04
+TXN00166,2025-12-17,Education,338.14,Debit Card,Book Store,College expense,Wednesday,No,2025-12
+TXN00881,2026-03-26,Food,183.42,Net Banking,Street Food,Lunch,Thursday,No,2026-03
+TXN00610,2026-02-17,Education,394.17,Credit Card,Online Course,Certification,Tuesday,No,2026-02
+TXN00273,2026-01-25,Transport,68.22,Debit Card,Bus,Public transport,Sunday,Yes,2026-01
+TXN01167,2025-10-25,Bills,463.44,Credit Card,Mobile Provider,Internet bill,Saturday,Yes,2025-10
+TXN00516,2025-10-13,Groceries,339.39,UPI,Supermarket,Supermarket,Monday,No,2025-10
+TXN00377,2026-08-21,Food,83.89,UPI,Food Delivery,Lunch,Friday,No,2026-08
+TXN00469,2026-04-08,Transport,98.52,Cash,Auto,Ride,Wednesday,No,2026-04
+TXN00995,2026-07-17,Groceries,716.91,Debit Card,Online Grocery,Vegetables,Friday,No,2026-07
+TXN00581,2025-09-25,Transport,71.1,Credit Card,Metro,Daily commute,Thursday,No,2025-09
+TXN00075,2026-08-17,Entertainment,207.08,UPI,Event,Event ticket,Monday,No,2026-08
+TXN00040,2026-05-02,Transport,150.2,UPI,Fuel Station,Public transport,Saturday,Yes,2026-05
+TXN00194,2026-04-21,Food,188.76,Cash,Cafe,Coffee,Tuesday,No,2026-04
+TXN00688,2025-09-08,Transport,121.19,UPI,,Office/College travel,Monday,No,2025-09
+TXN00936,2026-02-27,Transport,121.48,UPI,Cab,Daily commute,Friday,No,2026-02
+TXN00037,2025-10-21,Travel,784.44,Credit Card,Flight,Hotel booking,Tuesday,No,2025-10
+TXN00204,2025-11-20,Health,318.81,UPI,Clinic,Medicine,Thursday,No,2025-11
+TXN00120,2025-12-08,Travel,730.81,UPI,Flight,Hotel booking,Monday,No,2025-12
+TXN00970,2026-08-01,Food,273.98,UPI,Cafe,Dinner,Saturday,Yes,2026-08
+TXN00388,2026-01-21,Transport,104.71,Net Banking,Auto,Office/College travel,Wednesday,No,2026-01
+TXN00823,2025-12-20,Subscriptions,141.73,Cash,Software,Monthly subscription,Saturday,Yes,2025-12
+TXN00804,2025-12-15,Health,213.68,UPI,Hospital,Medicine,Monday,No,2025-12
+TXN00828,2025-12-04,Subscriptions,238.08,Credit Card,Spotify,Monthly subscription,Thursday,No,2025-12
+TXN00119,2026-06-20,Food,203.13,UPI,Cafe,Snacks,Saturday,Yes,2026-06
+TXN00115,2025-10-03,Shopping,275.17,Debit Card,Local Store,Electronics,Friday,No,2025-10
+TXN00185,2026-02-12,Subscriptions,162.78,Debit Card,Software,Cloud storage,Thursday,No,2026-02
+TXN00952,2026-07-15,Travel,233.13,UPI,Travel Agency,Hotel booking,Wednesday,No,2026-07
+TXN00133,2026-06-10,Travel,30.0,UPI,Train,Flight ticket,Wednesday,No,2026-06
+TXN00848,2026-07-23,Bills,408.81,Cash,Water Bill,Water bill,Thursday,No,2026-07
+TXN00500,2026-08-02,Food,159.74,Credit Card,Cafe,Dinner,Sunday,Yes,2026-08
+TXN00033,2026-03-07,Health,334.8,Debit Card,Pharmacy,Medicine,Saturday,Yes,2026-03
+TXN00375,2026-05-05,Education,204.69,UPI,Learning Platform,Certification,Tuesday,No,2026-05
+TXN00570,2026-04-21,Groceries,119.95,UPI,Online Grocery,Food supplies,Tuesday,No,2026-04
+TXN00620,2026-07-18,Education,378.06,Cash,Online Course,Study material,Saturday,Yes,2026-07
+TXN00384,2025-09-20,Subscriptions,225.17,Cash,Spotify,Cloud storage,Saturday,Yes,2025-09
+TXN00975,2026-03-13,Food,140.93,Cash,Cafe,Snacks,Friday,No,2026-03
+TXN01038,2026-04-17,Bills,434.76,UPI,Mobile Provider,Mobile recharge,Friday,No,2026-04
+TXN00706,2026-04-08,Bills,503.17,Credit Card,Electricity Board,Internet bill,Wednesday,No,2026-04
+TXN00951,2026-07-28,Food,201.31,UPI,Food Delivery,Lunch,Tuesday,No,2026-07
+TXN00794,2026-08-04,Groceries,420.25,Net Banking,Online Grocery,Monthly groceries,Tuesday,No,2026-08
+TXN00740,2025-12-08,Entertainment,91.99,Cash,Event,Event ticket,Monday,No,2025-12
+TXN01011,2025-11-23,Transport,153.31,Net Banking,Metro,Ride,Sunday,Yes,2025-11
+TXN01030,2026-06-23,Travel,1223.69,UPI,Hotel,Trip expense,Tuesday,No,2026-06
+TXN00285,2026-08-06,Education,508.69,Credit Card,College Fee,College expense,Thursday,No,2026-08
+TXN00478,2025-12-09,Travel,1043.48,UPI,Travel Agency,Train ticket,Tuesday,No,2025-12
+TXN00072,2026-02-09,Transport,121.4,UPI,Cab,Fuel,Monday,No,2026-02
+TXN00470,2025-11-08,Groceries,371.73,UPI,Online Grocery,Food supplies,Saturday,Yes,2025-11
+TXN00325,2026-01-25,Food,175.17,Credit Card,Cafe,Lunch,Sunday,Yes,2026-01
+TXN00592,2025-12-31,Bills,406.33,UPI,Water Bill,Internet bill,Wednesday,No,2025-12
+TXN00968,2025-11-14,Food,154.59,Debit Card,Street Food,Lunch,Friday,No,2025-11
+TXN01187,2026-05-09,Travel,634.87,UPI,Hotel,Flight ticket,Saturday,Yes,2026-05
+TXN01081,2026-06-16,Education,111.9,UPI,College Fee,College expense,Tuesday,No,2026-06
+TXN00596,2026-04-09,Food,274.03,Debit Card,Street Food,Breakfast,Thursday,No,2026-04
+TXN00580,2025-12-08,Subscriptions,219.04,Credit Card,Software,Cloud storage,Monday,No,2025-12
+TXN00476,2026-08-07,Health,113.5,Debit Card,Clinic,Health checkup,Friday,No,2026-08
+TXN00128,2026-05-15,Transport,176.5,UPI,Metro,Office/College travel,Friday,No,2026-05
+TXN00147,2026-04-25,Education,214.25,Debit Card,Online Course,College expense,Saturday,Yes,2026-04
+TXN00573,2026-06-11,Transport,110.73,UPI,Cab,Office/College travel,Thursday,No,2026-06
+TXN00690,2026-08-14,Entertainment,173.48,UPI,Event,Event ticket,Friday,No,2026-08
+TXN00061,2025-11-20,Food,181.09,Credit Card,Local Restaurant,Snacks,Thursday,No,2025-11
+TXN00941,2026-08-31,Food,187.88,UPI,Cafe,Snacks,Monday,No,2026-08
+TXN00736,2026-06-10,Food,198.97,UPI,Cafe,Snacks,Wednesday,No,2026-06
+TXN00847,2025-09-22,Subscriptions,220.04,UPI,Software,Software plan,Monday,No,2025-09
+TXN00960,2025-10-01,Food,182.47,Cash,Food Delivery,Snacks,Wednesday,No,2025-10
+TXN01009,2026-02-15,Groceries,237.99,UPI,Supermarket,Supermarket,Sunday,Yes,2026-02
+TXN00602,2025-09-09,Food,163.91,UPI,Cafe,Coffee,Tuesday,No,2025-09
+TXN00572,2026-05-23,Food,254.77,Debit Card,Local Restaurant,Breakfast,Saturday,Yes,2026-05
+TXN00461,2026-08-15,Food,148.74,Credit Card,Street Food,Breakfast,Saturday,Yes,2026-08
+TXN01146,2026-06-20,Food,180.17,UPI,Food Delivery,Coffee,Saturday,Yes,2026-06
+TXN00103,2026-01-17,Education,155.41,UPI,Online Course,Course fee,Saturday,Yes,2026-01
+TXN01006,2026-01-16,Transport,88.1,UPI,Metro,Office/College travel,Friday,No,2026-01
+TXN00912,2025-11-25,Food,148.96,Debit Card,Food Delivery,Lunch,Tuesday,No,2025-11
+TXN00162,2025-11-01,Entertainment,166.49,UPI,Streaming,Game,Saturday,Yes,2025-11
+TXN00372,2026-02-23,Bills,647.15,Credit Card,Internet Provider,Internet bill,Monday,No,2026-02
+TXN00522,2026-05-11,Food,139.41,UPI,Cafe,Lunch,Monday,No,2026-05
+TXN00509,2026-02-26,Subscriptions,148.27,UPI,Spotify,Software plan,Thursday,No,2026-02
+TXN00531,2025-12-24,Subscriptions,141.91,Debit Card,Software,Music plan,Wednesday,No,2025-12
+TXN00667,2026-05-10,Entertainment,108.1,UPI,Movie Theatre,Streaming,Sunday,Yes,2026-05
+TXN01178,2025-09-25,Groceries,243.84,Net Banking,Online Grocery,Household supplies,Thursday,No,2025-09
+TXN00317,2025-09-27,Food,168.35,Debit Card,Cafe,Lunch,Saturday,Yes,2025-09
+TXN00560,2026-06-13,Education,65.2,UPI,College Fee,Certification,Saturday,Yes,2026-06
+TXN00376,2025-09-26,Transport,158.11,UPI,Auto,Ride,Friday,No,2025-09
+TXN00388,2026-01-21,Transport,104.71,Net Banking,Auto,Office/College travel,Wednesday,No,2026-01
+TXN00670,2026-04-15,Groceries,479.03,Cash,Local Grocery,Monthly groceries,Wednesday,No,2026-04
+TXN00303,2026-01-13,Education,102.5,UPI,College Fee,Books,Tuesday,No,2026-01
+TXN00490,2026-02-27,Bills,586.72,Debit Card,Electricity Board,Mobile recharge,Friday,No,2026-02
+TXN00319,2026-06-04,Groceries,428.53,UPI,Supermarket,Monthly groceries,Thursday,No,2026-06
+TXN00366,2026-01-05,Groceries,298.25,Cash,Supermarket,Household supplies,Monday,No,2026-01
+TXN00496,2026-07-22,Education,249.43,UPI,Book Store,College expense,Wednesday,No,2026-07
+TXN00597,2026-04-23,Transport,53.73,Cash,Fuel Station,Public transport,Thursday,No,2026-04
+TXN01073,2026-03-17,Subscriptions,215.76,UPI,Software,Cloud storage,Tuesday,No,2026-03
+TXN00524,2025-10-05,Health,366.31,Debit Card,Pharmacy,Health checkup,Sunday,Yes,2025-10
+TXN00691,2026-02-11,Transport,122.17,UPI,Fuel Station,Public transport,Wednesday,No,2026-02
+TXN00590,2026-03-05,Groceries,415.29,Credit Card,Local Grocery,Supermarket,Thursday,No,2026-03
+TXN00567,2025-09-19,Groceries,125.87,Cash,Supermarket,Monthly groceries,Friday,No,2025-09
+TXN00472,2025-12-03,Groceries,228.6,Cash,Online Grocery,Monthly groceries,Wednesday,No,2025-12
+TXN00977,2026-03-22,Transport,30.0,Cash,Bus,Public transport,Sunday,Yes,2026-03
+TXN01027,2025-11-15,Food,152.79,Cash,Local Restaurant,Dinner,Saturday,Yes,2025-11
+TXN00814,2025-11-08,Shopping,182.0,UPI,Flipkart,Accessories,Saturday,Yes,2025-11
+TXN00708,2025-10-16,Entertainment,159.88,UPI,Movie Theatre,Streaming,Thursday,No,2025-10
+TXN00394,2026-08-08,Food,188.76,UPI,Cafe,Dinner,Saturday,Yes,2026-08
+TXN00983,2025-12-27,Health,99.69,UPI,Clinic,Health checkup,Saturday,Yes,2025-12
+TXN01084,2025-10-08,Shopping,146.2,Debit Card,Clothing Store,Online purchase,Wednesday,No,2025-10
+TXN00539,2026-05-07,Shopping,30.0,Cash,Flipkart,Electronics,Thursday,No,2026-05
+TXN00806,2025-11-20,Groceries,243.81,UPI,Local Grocery,Supermarket,Thursday,No,2025-11
+TXN01062,2026-08-19,Food,170.19,Debit Card,,Dinner,Wednesday,No,2026-08
+TXN00207,2025-09-02,Transport,99.18,UPI,Fuel Station,Ride,Tuesday,No,2025-09
+TXN00990,2026-01-18,Transport,101.79,UPI,Cab,Daily commute,Sunday,Yes,2026-01
+TXN01039,2026-05-28,Transport,126.0,Debit Card,Fuel Station,Fuel,Thursday,No,2026-05
+TXN00225,2026-01-01,Shopping,43.62,Cash,Amazon,Household item,Thursday,No,2026-01
+TXN00976,2026-08-01,Subscriptions,217.42,UPI,Netflix,Streaming plan,Saturday,Yes,2026-08
+TXN00584,2026-01-22,Food,231.31,UPI,Street Food,Lunch,Thursday,No,2026-01
+TXN00617,2026-08-05,Education,368.14,UPI,Online Course,Study material,Wednesday,No,2026-08
+TXN00334,2025-10-16,Transport,127.53,Cash,Metro,Fuel,Thursday,No,2025-10
+TXN01190,2026-01-30,Education,268.57,UPI,Learning Platform,Course fee,Friday,No,2026-01
+TXN00056,2026-08-06,Food,161.84,UPI,Food Delivery,Breakfast,Thursday,No,2026-08
+TXN00594,2026-02-10,Education,324.28,UPI,Book Store,Course fee,Tuesday,No,2026-02
+TXN00065,2025-10-24,Shopping,132.51,UPI,Amazon,Clothes,Friday,No,2025-10
+TXN00423,2026-08-21,Transport,82.27,Credit Card,Bus,Public transport,Friday,No,2026-08
+TXN00537,2026-04-05,Bills,378.85,UPI,Mobile Provider,Mobile recharge,Sunday,Yes,2026-04
+TXN00364,2026-08-08,Transport,97.99,UPI,Bus,Public transport,Saturday,Yes,2026-08
+TXN00653,2026-07-09,Transport,41.05,UPI,Metro,Ride,Thursday,No,2026-07
+TXN00678,2025-09-01,Groceries,291.09,Net Banking,Online Grocery,Monthly groceries,Monday,No,2025-09
+TXN00743,2026-03-16,Entertainment,216.62,UPI,Streaming,Movie,Monday,No,2026-03
+TXN00041,2026-07-17,Transport,113.96,UPI,Bus,Public transport,Friday,No,2026-07
+TXN00203,2025-12-22,Transport,57.33,UPI,Metro,Fuel,Monday,No,2025-12
+TXN01140,2025-12-13,Groceries,367.3,UPI,Supermarket,Household supplies,Saturday,Yes,2025-12
+TXN00070,2026-04-06,Shopping,570.75,Credit Card,Amazon,Household item,Monday,No,2026-04
+TXN00131,2026-05-13,Education,477.13,UPI,Book Store,Books,Wednesday,No,2026-05
+TXN00466,2025-11-25,Groceries,506.94,UPI,Supermarket,Household supplies,Tuesday,No,2025-11
+TXN00301,2026-06-04,Groceries,2769.28,Cash,Local Grocery,Food supplies,Thursday,No,2026-06
+TXN00898,2026-04-26,Food,245.4,UPI,Food Delivery,Breakfast,Sunday,Yes,2026-04
+TXN00810,2026-03-03,Education,465.64,UPI,Book Store,College expense,Tuesday,No,2026-03
+TXN00999,2026-08-22,Subscriptions,199.64,Cash,Spotify,Monthly subscription,Saturday,Yes,2026-08
+TXN00192,2026-02-07,Entertainment,315.6,Cash,Gaming,Movie,Saturday,Yes,2026-02
+TXN00502,2026-05-16,Bills,528.22,Debit Card,Mobile Provider,Electricity bill,Saturday,Yes,2026-05
+TXN00635,2026-03-21,Transport,93.55,Cash,Cab,Public transport,Saturday,Yes,2026-03
+TXN00911,2026-04-19,Entertainment,178.89,Credit Card,Gaming,Leisure,Sunday,Yes,2026-04
+TXN00340,2026-08-15,Entertainment,142.23,UPI,Streaming,Movie,Saturday,Yes,2026-08
+TXN00101,2026-01-14,Transport,124.13,Credit Card,Cab,Public transport,Wednesday,No,2026-01
+TXN01195,2026-02-08,Health,156.15,Debit Card,Hospital,Doctor visit,Sunday,Yes,2026-02
+TXN01054,2026-06-23,Food,194.01,Cash,Food Delivery,Snacks,Tuesday,No,2026-06
+TXN00628,2025-11-09,Shopping,302.67,UPI,Amazon,Household item,Sunday,Yes,2025-11
+TXN00434,2026-07-16,Food,137.7,Credit Card,Local Restaurant,Dinner,Thursday,No,2026-07
+TXN00513,2025-11-04,Shopping,334.66,Net Banking,Flipkart,Online purchase,Tuesday,No,2025-11
+TXN00919,2025-09-25,Food,215.57,Credit Card,Cafe,Lunch,Thursday,No,2025-09
+TXN00991,2025-10-17,Subscriptions,182.68,Credit Card,Cloud Storage,Music plan,Friday,No,2025-10
+TXN01046,2026-08-05,Bills,265.0,UPI,Internet Provider,Internet bill,Wednesday,No,2026-08
+TXN00967,2026-04-08,Education,79.58,UPI,Online Course,Study material,Wednesday,No,2026-04
+TXN00880,2026-02-27,Transport,126.52,Debit Card,Auto,Fuel,Friday,No,2026-02
+TXN01052,2025-10-12,Shopping,315.58,Net Banking,Flipkart,Electronics,Sunday,Yes,2025-10
+TXN00320,2026-06-13,Food,166.7,Credit Card,Food Delivery,Lunch,Saturday,Yes,2026-06
+TXN00305,2026-01-06,Transport,109.08,UPI,Auto,Office/College travel,Tuesday,No,2026-01
+TXN00719,2026-05-09,Groceries,441.06,UPI,Local Grocery,Vegetables,Saturday,Yes,2026-05
+TXN00891,2026-02-01,Transport,147.55,Cash,Bus,Fuel,Sunday,Yes,2026-02
+TXN00077,2026-05-29,Transport,115.9,UPI,Bus,Office/College travel,Friday,No,2026-05
+TXN01066,2026-01-31,Food,144.69,Credit Card,Local Restaurant,Dinner,Saturday,Yes,2026-01
+TXN00512,2026-07-20,Entertainment,204.04,Cash,Movie Theatre,Leisure,Monday,No,2026-07
+TXN01139,2025-12-20,Groceries,267.07,UPI,Online Grocery,Household supplies,Saturday,Yes,2025-12
+TXN00840,2025-12-31,Education,87.76,UPI,Online Course,Course fee,Wednesday,No,2025-12
+TXN01029,2025-09-01,Food,220.37,UPI,Local Restaurant,Lunch,Monday,No,2025-09
+TXN00283,2025-12-22,Groceries,461.09,Net Banking,Supermarket,Household supplies,Monday,No,2025-12
+TXN00636,2026-08-12,Education,342.54,UPI,Learning Platform,Course fee,Wednesday,No,2026-08
+TXN00599,2026-01-24,Food,271.06,Credit Card,Cafe,Breakfast,Saturday,Yes,2026-01
+TXN00865,2026-04-27,Shopping,199.64,UPI,Amazon,Online purchase,Monday,No,2026-04
+TXN00798,2026-07-05,Food,120.33,UPI,Local Restaurant,Breakfast,Sunday,Yes,2026-07
+TXN00216,2025-10-23,Shopping,169.76,Debit Card,Amazon,Electronics,Thursday,No,2025-10
+TXN00267,2026-01-18,Shopping,411.88,UPI,Local Store,Online purchase,Sunday,Yes,2026-01
+TXN00373,2025-10-09,Food,139.24,UPI,Cafe,Breakfast,Thursday,No,2025-10
+TXN00099,2026-08-10,Food,224.92,UPI,Street Food,Dinner,Monday,No,2026-08
+TXN00503,2026-02-07,Groceries,147.86,Cash,Local Grocery,Supermarket,Saturday,Yes,2026-02
+TXN00150,2025-09-29,Groceries,607.35,UPI,Online Grocery,Monthly groceries,Monday,No,2025-09
+TXN00558,2026-08-21,Transport,164.22,Credit Card,Cab,Fuel,Friday,No,2026-08
+TXN00679,2025-10-24,Transport,30.0,Cash,Metro,Public transport,Friday,No,2025-10
+TXN00751,2026-03-21,Education,252.97,UPI,Learning Platform,Study material,Saturday,Yes,2026-03
+TXN00294,2026-07-07,Transport,137.29,UPI,Fuel Station,Public transport,Tuesday,No,2026-07
+TXN00711,2025-11-21,Subscriptions,301.72,UPI,Spotify,Music plan,Friday,No,2025-11
+TXN00026,2025-09-22,Entertainment,103.73,Cash,Gaming,Leisure,Monday,No,2025-09
+TXN00091,2025-10-11,Food,169.25,Debit Card,Cafe,Breakfast,Saturday,Yes,2025-10
+TXN00336,2025-12-08,Entertainment,136.59,Cash,Event,Leisure,Monday,No,2025-12
+TXN00782,2026-03-26,Food,119.13,UPI,Street Food,Coffee,Thursday,No,2026-03
+TXN01070,2025-12-13,Food,220.6,UPI,Cafe,Breakfast,Saturday,Yes,2025-12
+TXN01126,2026-08-26,Entertainment,263.61,Debit Card,Streaming,Movie,Wednesday,No,2026-08
+TXN00505,2026-01-30,Travel,402.26,Cash,Travel Agency,Flight ticket,Friday,No,2026-01
+TXN00591,2026-04-11,Bills,597.72,UPI,Internet Provider,Electricity bill,Saturday,Yes,2026-04
+TXN00158,2026-06-11,Food,131.95,Net Banking,Local Restaurant,Dinner,Thursday,No,2026-06
+TXN00583,2026-01-29,Food,202.42,UPI,Street Food,Snacks,Thursday,No,2026-01
+TXN00868,2025-12-16,Food,169.45,UPI,Food Delivery,Lunch,Tuesday,No,2025-12
+TXN00256,2026-06-25,Food,196.27,Net Banking,Street Food,Coffee,Thursday,No,2026-06
+TXN00314,2025-10-21,Education,282.46,UPI,Learning Platform,Books,Tuesday,No,2025-10
+TXN00895,2025-09-07,Food,193.67,UPI,Street Food,Dinner,Sunday,Yes,2025-09
+TXN01105,2026-02-04,Groceries,396.91,Debit Card,Supermarket,Food supplies,Wednesday,No,2026-02
+TXN00656,2025-10-28,Education,416.92,UPI,Book Store,College expense,Tuesday,No,2025-10
+TXN00600,2026-04-27,Education,301.09,Cash,Online Course,Certification,Monday,No,2026-04
+TXN00817,2025-10-23,Entertainment,106.25,UPI,Streaming,Event ticket,Thursday,No,2025-10
+TXN00801,2026-08-01,Entertainment,102.9,UPI,Event,Movie,Saturday,Yes,2026-08
+TXN00413,2025-10-23,Food,233.5,Credit Card,Food Delivery,Dinner,Thursday,No,2025-10
+TXN01080,2026-02-04,Shopping,326.39,UPI,Amazon,Accessories,Wednesday,No,2026-02
+TXN00808,2026-06-12,Groceries,220.61,Debit Card,Online Grocery,Supermarket,Friday,No,2026-06
+TXN01135,2026-04-06,Transport,122.87,Net Banking,Metro,Public transport,Monday,No,2026-04
+TXN00401,2026-01-28,Groceries,213.97,UPI,Supermarket,Vegetables,Wednesday,No,2026-01
+TXN01063,2025-09-23,Groceries,231.33,UPI,Supermarket,Vegetables,Tuesday,No,2025-09
+TXN00302,2026-07-01,Shopping,453.87,Credit Card,Amazon,Electronics,Wednesday,No,2026-07
+TXN00696,2026-02-25,Food,131.14,UPI,Local Restaurant,Coffee,Wednesday,No,2026-02
+TXN01180,2025-11-14,Education,399.63,Cash,Online Course,Study material,Friday,No,2025-11
+TXN00724,2025-11-04,Transport,118.76,UPI,Bus,Daily commute,Tuesday,No,2025-11
+TXN00627,2026-06-19,Subscriptions,283.89,Cash,Cloud Storage,Streaming plan,Friday,No,2026-06
+TXN00933,2025-10-12,Groceries,426.84,UPI,Online Grocery,Vegetables,Sunday,Yes,2025-10
+TXN00718,2026-04-30,Shopping,428.19,UPI,Amazon,Clothes,Thursday,No,2026-04
+TXN00621,2026-08-08,Shopping,476.52,UPI,Local Store,Electronics,Saturday,Yes,2026-08
+TXN00735,2026-07-12,Food,209.97,Cash,Street Food,Snacks,Sunday,Yes,2026-07
+TXN00866,2025-10-26,Food,191.86,UPI,Street Food,Lunch,Sunday,Yes,2025-10
+TXN00519,2025-09-12,Transport,55.62,Credit Card,Metro,Daily commute,Friday,No,2025-09
+TXN00151,2025-10-06,Groceries,318.71,UPI,Local Grocery,Supermarket,Monday,No,2025-10
+TXN01181,2026-06-21,Subscriptions,224.07,Credit Card,Cloud Storage,Music plan,Sunday,Yes,2026-06
+TXN00189,2026-02-19,Transport,114.31,Cash,Metro,Office/College travel,Thursday,No,2026-02
+TXN00380,2026-07-13,Transport,117.81,UPI,Fuel Station,Ride,Monday,No,2026-07
+TXN00054,2026-08-12,Shopping,383.6,UPI,Local Store,Clothes,Wednesday,No,2026-08
+TXN00834,2026-08-18,Groceries,221.55,UPI,Local Grocery,Monthly groceries,Tuesday,No,2026-08
+TXN00245,2026-01-26,Subscriptions,191.81,UPI,Cloud Storage,Streaming plan,Monday,No,2026-01
+TXN00432,2026-01-23,Groceries,243.22,Cash,Local Grocery,Vegetables,Friday,No,2026-01
+TXN00335,2025-09-06,Health,30.0,UPI,Clinic,Doctor visit,Saturday,Yes,2025-09
+TXN00156,2026-05-01,Food,107.27,UPI,Cafe,Breakfast,Friday,No,2026-05
+TXN01166,2026-07-16,Groceries,308.47,Cash,Supermarket,Household supplies,Thursday,No,2026-07
+TXN00108,2026-04-19,Groceries,378.16,UPI,Online Grocery,Vegetables,Sunday,Yes,2026-04
+TXN00425,2026-07-05,Food,94.79,Debit Card,Street Food,Breakfast,Sunday,Yes,2026-07
+TXN00281,2025-12-25,Groceries,331.2,UPI,Supermarket,Vegetables,Thursday,No,2025-12
+TXN00081,2026-06-23,Groceries,534.4,UPI,Online Grocery,Supermarket,Tuesday,No,2026-06
+TXN00154,2026-07-24,Entertainment,155.75,UPI,Streaming,Movie,Friday,No,2026-07
+TXN00689,2025-12-31,Groceries,279.41,UPI,Online Grocery,Supermarket,Wednesday,No,2025-12
+TXN00387,2026-01-20,Shopping,236.32,Cash,Clothing Store,Electronics,Tuesday,No,2026-01
+TXN01053,2025-11-28,Groceries,377.62,Cash,Local Grocery,Monthly groceries,Friday,No,2025-11
+TXN00851,2026-04-21,Food,205.41,UPI,Local Restaurant,Coffee,Tuesday,No,2026-04
+TXN00650,2026-08-14,Bills,601.35,Credit Card,Mobile Provider,Mobile recharge,Friday,No,2026-08
+TXN01170,2026-01-15,Bills,383.2,UPI,Internet Provider,Electricity bill,Thursday,No,2026-01
+TXN00819,2026-01-04,Shopping,284.87,UPI,Amazon,Clothes,Sunday,Yes,2026-01
+TXN00683,2026-07-27,Shopping,408.29,Debit Card,Amazon,Household item,Monday,No,2026-07
+TXN00210,2025-10-24,Food,240.32,UPI,Local Restaurant,Coffee,Friday,No,2025-10
+TXN00416,2025-09-05,Shopping,388.42,Credit Card,Clothing Store,Online purchase,Friday,No,2025-09
+TXN00332,2026-04-08,Subscriptions,336.19,UPI,Software,Software plan,Wednesday,No,2026-04
+TXN00789,2026-05-10,Food,129.76,UPI,Street Food,Dinner,Sunday,Yes,2026-05
+TXN01192,2026-02-27,Entertainment,120.27,UPI,Streaming,Movie,Friday,No,2026-02
+TXN00353,2025-09-18,Shopping,204.16,UPI,Clothing Store,Clothes,Thursday,No,2025-09
+TXN01150,2025-12-01,Travel,431.61,UPI,Flight,Flight ticket,Monday,No,2025-12
+TXN00243,2026-08-12,Shopping,233.02,Debit Card,Flipkart,Household item,Wednesday,No,2026-08
+TXN00837,2025-12-02,Food,204.82,Cash,Local Restaurant,Dinner,Tuesday,No,2025-12
+TXN00053,2026-05-23,Groceries,259.9,UPI,Local Grocery,Vegetables,Saturday,Yes,2026-05
+TXN00178,2025-12-25,Entertainment,256.23,Debit Card,Event,Game,Thursday,No,2025-12
+TXN00048,2026-06-01,Transport,154.84,UPI,Metro,Office/College travel,Monday,No,2026-06
+TXN00879,2026-05-11,Subscriptions,214.98,Credit Card,Spotify,Monthly subscription,Monday,No,2026-05
+TXN00791,2026-06-21,Groceries,328.17,UPI,Supermarket,Vegetables,Sunday,Yes,2026-06
+TXN00355,2026-04-11,Food,299.0,UPI,Local Restaurant,Coffee,Saturday,Yes,2026-04
+TXN00084,2026-04-25,Groceries,264.9,UPI,Online Grocery,Household supplies,Saturday,Yes,2026-04
+TXN00616,2026-02-12,Subscriptions,133.66,UPI,Software,Streaming plan,Thursday,No,2026-02
+TXN00456,2026-05-30,Food,304.18,UPI,Food Delivery,Breakfast,Saturday,Yes,2026-05
+TXN00082,2026-04-01,Bills,398.75,UPI,Internet Provider,Internet bill,Wednesday,No,2026-04
+TXN01119,2026-06-26,Health,300.87,Cash,Hospital,Medicine,Friday,No,2026-06
+TXN01065,2026-01-21,Travel,159.67,Debit Card,Flight,Flight ticket,Wednesday,No,2026-01
+TXN00400,2026-01-03,Food,198.32,Debit Card,Food Delivery,Lunch,Saturday,Yes,2026-01
+TXN00574,2026-03-25,Food,190.38,Cash,Street Food,Lunch,Wednesday,No,2026-03
+TXN00611,2026-06-10,Bills,132.34,UPI,Mobile Provider,Water bill,Wednesday,No,2026-06
+TXN00370,2026-06-26,Subscriptions,176.4,UPI,Netflix,Cloud storage,Friday,No,2026-06
+TXN00452,2025-12-27,Food,136.19,UPI,Local Restaurant,Breakfast,Saturday,Yes,2025-12
+TXN00253,2026-01-07,Health,343.91,UPI,Pharmacy,Health checkup,Wednesday,No,2026-01
+TXN01130,2025-09-23,Food,250.35,UPI,Local Restaurant,Snacks,Tuesday,No,2025-09
+TXN01194,2026-08-10,Subscriptions,71.6,Debit Card,Software,Monthly subscription,Monday,No,2026-08
+TXN01017,2026-05-23,Groceries,265.06,UPI,Supermarket,Household supplies,Saturday,Yes,2026-05
+TXN00190,2026-01-30,Groceries,427.21,Credit Card,Supermarket,Supermarket,Friday,No,2026-01
+TXN00958,2026-05-05,Food,221.33,Credit Card,Local Restaurant,Breakfast,Tuesday,No,2026-05
+TXN00237,2026-03-06,Shopping,30.0,UPI,Local Store,Accessories,Friday,No,2026-03
+TXN00552,2025-10-07,Food,180.88,UPI,Local Restaurant,Breakfast,Tuesday,No,2025-10
+TXN00016,2026-01-09,Food,134.56,UPI,Local Restaurant,Dinner,Friday,No,2026-01
+TXN00588,2026-02-28,Subscriptions,91.97,Credit Card,Software,Music plan,Saturday,Yes,2026-02
+TXN01163,2026-03-01,Groceries,356.09,Cash,Local Grocery,Monthly groceries,Sunday,Yes,2026-03
+TXN00110,2025-09-28,Entertainment,159.29,Credit Card,Event,Game,Sunday,Yes,2025-09
+TXN00953,2026-08-16,Bills,519.99,UPI,Internet Provider,Mobile recharge,Sunday,Yes,2026-08
+TXN00015,2026-01-30,Food,73.67,Debit Card,Street Food,Coffee,Friday,No,2026-01
+TXN00409,2026-05-29,Subscriptions,135.1,UPI,Netflix,Streaming plan,Friday,No,2026-05
+TXN01086,2026-06-16,Food,118.48,Cash,Cafe,Dinner,Tuesday,No,2026-06
+TXN00812,2026-05-31,Transport,77.47,Cash,Bus,Public transport,Sunday,Yes,2026-05
+TXN00896,2025-09-03,Groceries,451.02,UPI,Local Grocery,Supermarket,Wednesday,No,2025-09
+TXN00639,2026-01-04,Groceries,643.96,UPI,Local Grocery,Monthly groceries,Sunday,Yes,2026-01
+TXN00173,2026-04-19,Subscriptions,134.21,Credit Card,Cloud Storage,Software plan,Sunday,Yes,2026-04
+TXN00514,2026-02-15,Travel,137.53,Credit Card,Hotel,Flight ticket,Sunday,Yes,2026-02
+TXN00852,2025-09-12,Bills,236.46,UPI,Mobile Provider,Internet bill,Friday,No,2025-09
+TXN00143,2025-10-22,Food,213.25,UPI,Cafe,Lunch,Wednesday,No,2025-10
+TXN01113,2026-01-08,Entertainment,176.86,Credit Card,Streaming,Movie,Thursday,No,2026-01
+TXN00660,2026-02-20,Groceries,446.08,UPI,Online Grocery,Supermarket,Friday,No,2026-02
+TXN00993,2025-11-29,Entertainment,156.03,Credit Card,Streaming,Movie,Saturday,Yes,2025-11
+TXN00768,2026-05-08,Groceries,229.21,UPI,Local Grocery,Food supplies,Friday,No,2026-05
+TXN00593,2026-01-11,Bills,362.43,Credit Card,Water Bill,Mobile recharge,Sunday,Yes,2026-01
+TXN00665,2026-04-01,Shopping,454.07,Net Banking,Local Store,Household item,Wednesday,No,2026-04
+TXN00669,2026-02-11,Health,195.41,Debit Card,Hospital,Pharmacy,Wednesday,No,2026-02
+TXN00291,2026-08-15,Travel,152.43,Debit Card,Flight,Travel booking,Saturday,Yes,2026-08
+TXN00818,2026-03-24,Transport,74.86,Net Banking,Cab,Fuel,Tuesday,No,2026-03
+TXN01043,2026-04-01,Health,230.9,Net Banking,Diagnostic Center,Medicine,Wednesday,No,2026-04
+TXN00391,2026-07-19,Groceries,433.1,Cash,Online Grocery,Supermarket,Sunday,Yes,2026-07
+TXN00830,2026-08-26,Groceries,189.24,UPI,Supermarket,Food supplies,Wednesday,No,2026-08
+TXN00076,2026-07-01,Shopping,224.55,UPI,Clothing Store,Online purchase,Wednesday,No,2026-07
+TXN00675,2026-07-02,Food,123.64,Cash,Food Delivery,Lunch,Thursday,No,2026-07
+TXN01089,2025-11-25,Health,291.8,UPI,Diagnostic Center,Pharmacy,Tuesday,No,2025-11
+TXN01149,2025-12-15,Shopping,2644.42,Debit Card,Amazon,Accessories,Monday,No,2025-12
+TXN00497,2025-09-04,Food,207.71,Cash,Cafe,Snacks,Thursday,No,2025-09
+TXN00385,2026-07-18,Shopping,326.67,Debit Card,Flipkart,Accessories,Saturday,Yes,2026-07
+TXN01057,2025-12-13,Health,244.78,Debit Card,Pharmacy,Medicine,Saturday,Yes,2025-12
+TXN00554,2026-03-02,Bills,3601.78,Credit Card,Mobile Provider,Utility payment,Monday,No,2026-03
+TXN00966,2026-07-19,Groceries,410.61,UPI,Supermarket,Supermarket,Sunday,Yes,2026-07
+TXN00959,2026-05-01,Food,123.94,Debit Card,Street Food,Snacks,Friday,No,2026-05
+TXN01121,2025-11-08,Food,197.41,UPI,Food Delivery,Lunch,Saturday,Yes,2025-11
+TXN00278,2025-10-24,Groceries,314.99,Cash,Online Grocery,Supermarket,Friday,No,2025-10
+TXN00762,2025-10-04,Transport,124.73,Net Banking,Metro,Ride,Saturday,Yes,2025-10
+TXN00430,2026-02-05,Transport,142.81,Credit Card,Fuel Station,Public transport,Thursday,No,2026-02
+TXN00843,2025-09-05,Health,190.18,Net Banking,Hospital,Doctor visit,Friday,No,2025-09
+TXN00206,2025-12-22,Health,30.52,Credit Card,Clinic,Doctor visit,Monday,No,2025-12
+TXN00726,2026-04-12,Shopping,633.19,UPI,Flipkart,Clothes,Sunday,Yes,2026-04
+TXN00252,2026-08-26,Health,250.32,Cash,Pharmacy,Medicine,Wednesday,No,2026-08
+TXN00730,2026-08-07,Bills,579.78,Net Banking,Electricity Board,Internet bill,Friday,No,2026-08
+TXN00831,2026-03-03,Shopping,358.25,UPI,Local Store,Household item,Tuesday,No,2026-03
+TXN00239,2026-08-15,Food,170.5,Net Banking,Local Restaurant,Breakfast,Saturday,Yes,2026-08
+TXN00415,2025-12-17,Education,356.23,UPI,Learning Platform,Study material,Wednesday,No,2025-12
+TXN00163,2026-01-12,Groceries,359.81,UPI,Supermarket,,Monday,No,2026-01
+TXN00232,2026-04-28,Transport,115.14,Credit Card,Bus,Public transport,Tuesday,No,2026-04
+TXN01075,2025-11-06,Bills,301.59,UPI,Internet Provider,Utility payment,Thursday,No,2025-11
+TXN00974,2025-11-01,Food,197.53,Credit Card,Local Restaurant,Coffee,Saturday,Yes,2025-11
+TXN00094,2026-06-28,Entertainment,106.21,Cash,Streaming,Event ticket,Sunday,Yes,2026-06
+TXN01197,2026-06-12,Food,168.47,Debit Card,Street Food,Snacks,Friday,No,2026-06
+TXN00802,2025-09-30,Groceries,216.0,UPI,Supermarket,Vegetables,Tuesday,No,2025-09
+TXN00221,2026-05-05,Groceries,616.17,Net Banking,Online Grocery,Monthly groceries,Tuesday,No,2026-05
+TXN00007,2025-09-21,Food,187.94,Cash,Street Food,Coffee,Sunday,Yes,2025-09
+TXN00538,2026-06-04,Bills,241.02,Debit Card,Mobile Provider,Internet bill,Thursday,No,2026-06
+TXN01114,2025-12-04,Travel,589.48,Debit Card,Travel Agency,Hotel booking,Thursday,No,2025-12
+TXN00078,2026-04-03,Subscriptions,272.23,UPI,Software,Monthly subscription,Friday,No,2026-04
+TXN00165,2025-09-28,Groceries,220.17,UPI,Local Grocery,Food supplies,Sunday,Yes,2025-09
+TXN00111,2026-01-13,Health,296.27,Credit Card,Clinic,Medicine,Tuesday,No,2026-01
+TXN00462,2026-05-05,Subscriptions,151.35,UPI,Spotify,Monthly subscription,Tuesday,No,2026-05
+TXN00870,2025-10-18,Education,189.51,Debit Card,Online Course,Certification,Saturday,Yes,2025-10
+TXN00483,2025-09-23,Groceries,404.67,Credit Card,Supermarket,Monthly groceries,Tuesday,No,2025-09
+TXN01013,2026-07-16,Groceries,344.0,UPI,Local Grocery,Monthly groceries,Thursday,No,2026-07
+TXN00307,2026-02-23,Groceries,236.66,UPI,Supermarket,Supermarket,Monday,No,2026-02
+TXN00809,2026-01-16,Groceries,474.63,Credit Card,Online Grocery,Household supplies,Friday,No,2026-01
+TXN00088,2026-04-05,Entertainment,139.62,UPI,Movie Theatre,Streaming,Sunday,Yes,2026-04
+TXN00645,2025-10-28,Transport,87.27,UPI,Metro,Public transport,Tuesday,No,2025-10
+TXN00634,2025-11-30,Shopping,205.75,Cash,Amazon,Accessories,Sunday,Yes,2025-11
+TXN00536,2025-11-14,Groceries,278.15,Debit Card,Online Grocery,Food supplies,Friday,No,2025-11
+TXN01168,2026-01-27,Groceries,188.86,Credit Card,Online Grocery,Vegetables,Tuesday,No,2026-01
+TXN00878,2026-08-21,Education,338.3,Cash,Book Store,College expense,Friday,No,2026-08
+TXN00374,2026-02-17,Groceries,258.47,Cash,Local Grocery,Supermarket,Tuesday,No,2026-02
+TXN01018,2025-10-08,Bills,458.03,Cash,Mobile Provider,Electricity bill,Wednesday,No,2025-10
+TXN00905,2026-03-11,Shopping,194.05,UPI,Flipkart,Household item,Wednesday,No,2026-03
+TXN01015,2026-07-26,Subscriptions,239.39,Debit Card,Spotify,Monthly subscription,Sunday,Yes,2026-07
+TXN00926,2026-04-16,Transport,81.11,UPI,Bus,Ride,Thursday,No,2026-04
+TXN00836,2026-02-02,Transport,119.5,Debit Card,Metro,Ride,Monday,No,2026-02
+TXN00347,2026-03-10,Education,30.0,Net Banking,Learning Platform,Course fee,Tuesday,No,2026-03
+TXN00052,2026-04-30,Groceries,231.51,UPI,Local Grocery,Household supplies,Thursday,No,2026-04
+TXN00653,2026-07-09,Transport,41.05,UPI,Metro,Ride,Thursday,No,2026-07
+TXN00816,2026-05-20,Subscriptions,78.52,Credit Card,Cloud Storage,Monthly subscription,Wednesday,No,2026-05
+TXN01072,2025-10-09,Groceries,562.7,UPI,Online Grocery,Monthly groceries,Thursday,No,2025-10
+TXN00727,2026-04-27,Education,397.08,UPI,Book Store,Books,Monday,No,2026-04
+TXN00311,2025-10-08,Education,387.41,Credit Card,College Fee,Study material,Wednesday,No,2025-10
+TXN00725,2026-01-24,Groceries,629.39,Debit Card,Supermarket,Supermarket,Saturday,Yes,2026-01
+TXN00790,2026-04-14,Bills,642.45,UPI,Mobile Provider,Electricity bill,Tuesday,No,2026-04
+TXN00187,2026-07-04,Groceries,653.93,Debit Card,Local Grocery,Food supplies,Saturday,Yes,2026-07
+TXN00093,2025-09-15,Subscriptions,152.58,Debit Card,Cloud Storage,Software plan,Monday,No,2025-09
+TXN01189,2026-03-01,Transport,91.92,UPI,Bus,Ride,Sunday,Yes,2026-03
+TXN00473,2026-04-26,Entertainment,127.35,UPI,Event,Game,Sunday,Yes,2026-04
+TXN01133,2026-06-29,Transport,127.5,Debit Card,Auto,Ride,Monday,No,2026-06
+TXN01193,2026-03-17,Bills,388.18,Credit Card,Mobile Provider,Water bill,Tuesday,No,2026-03
+TXN00339,2026-06-07,Groceries,326.46,Cash,Supermarket,Supermarket,Sunday,Yes,2026-06
+TXN00468,2026-06-12,Groceries,348.7,UPI,Local Grocery,Food supplies,Friday,No,2026-06
+TXN00327,2025-10-05,Groceries,130.08,Debit Card,Supermarket,Monthly groceries,Sunday,Yes,2025-10
+TXN00702,2026-03-11,Food,149.51,Cash,Food Delivery,Snacks,Wednesday,No,2026-03
+TXN00440,2025-12-26,Bills,196.93,UPI,Mobile Provider,Water bill,Friday,No,2025-12
+TXN00530,2025-11-29,Transport,131.11,UPI,Auto,Public transport,Saturday,Yes,2025-11
+TXN00182,2026-03-17,Transport,135.97,UPI,Auto,Public transport,Tuesday,No,2026-03
+TXN00379,2025-09-13,Education,468.97,UPI,Book Store,Certification,Saturday,Yes,2025-09
+TXN00927,2025-12-20,Travel,1977.09,UPI,Hotel,Flight ticket,Saturday,Yes,2025-12
+TXN00188,2026-04-22,Groceries,325.38,Net Banking,Supermarket,Supermarket,Wednesday,No,2026-04
+TXN00414,2025-10-30,Food,211.87,Cash,Cafe,Breakfast,Thursday,No,2025-10
+TXN01028,2025-10-05,Food,8790.72,Cash,Cafe,Breakfast,Sunday,Yes,2025-10
+TXN00447,2025-09-01,Food,261.02,Debit Card,Food Delivery,Coffee,Monday,No,2025-09
+TXN00155,2026-03-06,Shopping,355.99,UPI,Flipkart,Online purchase,Friday,No,2026-03
+TXN00772,2026-07-03,Education,398.72,UPI,Online Course,Certification,Friday,No,2026-07
+TXN01058,2025-09-14,Food,222.36,Debit Card,Food Delivery,Coffee,Sunday,Yes,2025-09
+TXN01050,2025-11-28,Subscriptions,146.44,Cash,Netflix,Monthly subscription,Friday,No,2025-11
+TXN00796,2026-08-01,Transport,160.7,Debit Card,Metro,Daily commute,Saturday,Yes,2026-08
+TXN00957,2026-01-15,Travel,1089.12,UPI,Travel Agency,Train ticket,Thursday,No,2026-01
+TXN00046,2026-07-26,Food,228.6,Debit Card,Cafe,Lunch,Sunday,Yes,2026-07
+TXN00455,2026-04-25,Groceries,498.43,UPI,Online Grocery,Food supplies,Saturday,Yes,2026-04
+TXN00067,2026-05-18,Groceries,323.8,UPI,Supermarket,Monthly groceries,Monday,No,2026-05
+TXN00885,2026-04-02,Education,439.06,Debit Card,Online Course,Certification,Thursday,No,2026-04
+TXN00257,2025-12-08,Transport,69.97,Cash,Metro,Ride,Monday,No,2025-12
+TXN00587,2025-12-18,Food,8925.51,Cash,Street Food,Breakfast,Thursday,No,2025-12
+TXN00511,2026-05-26,Groceries,395.74,Credit Card,Supermarket,Supermarket,Tuesday,No,2026-05
+TXN01160,2025-12-10,Transport,139.89,UPI,Metro,Office/College travel,Wednesday,No,2025-12
+TXN00862,2025-10-17,Shopping,425.77,UPI,Flipkart,Online purchase,Friday,No,2025-10
+TXN00477,2025-10-09,Entertainment,141.9,Credit Card,Event,Game,Thursday,No,2025-10
+TXN00487,2026-07-22,Food,70.25,Cash,Food Delivery,Snacks,Wednesday,No,2026-07
+TXN00640,2026-02-20,Shopping,230.36,Debit Card,Local Store,Electronics,Friday,No,2026-02
+TXN00595,2026-04-03,Food,142.42,UPI,Street Food,Coffee,Friday,No,2026-04
+TXN01171,2026-03-21,Food,259.0,UPI,Local Restaurant,Breakfast,Saturday,Yes,2026-03
+TXN00051,2025-09-14,Travel,868.13,UPI,Train,Travel booking,Sunday,Yes,2025-09
+TXN00575,2026-04-11,Entertainment,79.19,UPI,Event,Streaming,Saturday,Yes,2026-04
+TXN00642,2026-04-30,Food,150.86,UPI,Street Food,Breakfast,Thursday,No,2026-04
+TXN00348,2026-05-11,Food,167.13,UPI,Cafe,Breakfast,Monday,No,2026-05
+TXN00779,2025-12-21,Entertainment,37.9,Credit Card,,Leisure,Sunday,Yes,2025-12
+TXN00140,2026-08-18,Entertainment,145.16,UPI,Movie Theatre,Event ticket,Tuesday,No,2026-08
+TXN00517,2025-10-14,Groceries,443.87,Debit Card,Supermarket,Food supplies,Tuesday,No,2025-10
+TXN01067,2026-01-23,Subscriptions,154.06,UPI,Cloud Storage,Cloud storage,Friday,No,2026-01
+TXN00946,2026-03-17,Groceries,417.58,Credit Card,Local Grocery,Monthly groceries,Tuesday,No,2026-03
+TXN00913,2026-01-04,Food,157.81,Debit Card,Cafe,Coffee,Sunday,Yes,2026-01
+TXN00442,2026-06-06,Education,344.38,Net Banking,Online Course,Books,Saturday,Yes,2026-06
+TXN00577,2026-08-05,Food,163.12,Credit Card,Local Restaurant,Lunch,Wednesday,No,2026-08
+TXN00417,2025-12-12,Food,178.81,Debit Card,Cafe,Dinner,Friday,No,2025-12
+TXN00614,2025-09-05,Entertainment,70.95,UPI,Gaming,Game,Friday,No,2025-09
+TXN01182,2026-03-29,Entertainment,115.65,Debit Card,Gaming,Movie,Sunday,Yes,2026-03
+TXN01004,2025-09-10,Health,379.06,Net Banking,Clinic,Pharmacy,Wednesday,No,2025-09
+TXN00079,2026-05-10,Groceries,209.08,UPI,Local Grocery,Vegetables,Sunday,Yes,2026-05
+TXN00396,2026-01-31,Shopping,213.38,Credit Card,Local Store,Household item,Saturday,Yes,2026-01
+TXN00629,2026-05-10,Groceries,306.17,UPI,Online Grocery,Vegetables,Sunday,Yes,2026-05
+TXN00623,2026-07-24,Food,212.39,UPI,Local Restaurant,Dinner,Friday,No,2026-07
+TXN00352,2026-01-06,Entertainment,219.74,UPI,Movie Theatre,Streaming,Tuesday,No,2026-01
+TXN00492,2026-05-08,Travel,1206.26,Debit Card,Flight,Travel booking,Friday,No,2026-05
+TXN00769,2026-02-09,Transport,6074.12,UPI,Bus,Daily commute,Monday,No,2026-02
+TXN00312,2026-04-18,Groceries,3604.17,Cash,Local Grocery,Supermarket,Saturday,Yes,2026-04
+TXN00238,2026-07-23,Education,184.94,Credit Card,College Fee,Books,Thursday,No,2026-07
+TXN00842,2026-06-04,Subscriptions,261.87,Credit Card,Spotify,Software plan,Thursday,No,2026-06
+TXN00715,2025-09-10,Transport,80.93,Debit Card,Cab,Daily commute,Wednesday,No,2025-09
+TXN00582,2025-10-23,Bills,464.37,UPI,Mobile Provider,Internet bill,Thursday,No,2025-10
+TXN01047,2025-11-17,Food,243.15,Cash,Cafe,Snacks,Monday,No,2025-11
+TXN00501,2026-05-05,Transport,110.02,UPI,Auto,Ride,Tuesday,No,2026-05
+TXN00598,2026-07-28,Education,329.56,UPI,College Fee,Course fee,Tuesday,No,2026-07
+TXN01155,2026-06-24,Groceries,628.19,Cash,Supermarket,Food supplies,Wednesday,No,2026-06
+TXN00309,2026-04-26,Groceries,283.66,Credit Card,Local Grocery,Vegetables,Sunday,Yes,2026-04
+TXN00038,2026-08-30,Education,179.71,Debit Card,College Fee,Certification,Sunday,Yes,2026-08
+TXN00944,2026-01-28,Health,179.24,UPI,Diagnostic Center,Doctor visit,Wednesday,No,2026-01
+TXN00453,2025-10-18,Entertainment,218.11,UPI,Event,Game,Saturday,Yes,2025-10
+TXN00458,2026-03-11,Food,157.1,UPI,Food Delivery,Dinner,Wednesday,No,2026-03
+TXN00704,2026-03-20,Transport,75.66,Debit Card,Metro,Ride,Friday,No,2026-03
+TXN00771,2026-05-17,Groceries,498.39,Cash,Local Grocery,Food supplies,Sunday,Yes,2026-05
+TXN00520,2025-12-04,Entertainment,245.43,UPI,Movie Theatre,Streaming,Thursday,No,2025-12
+TXN00006,2026-03-08,Shopping,343.17,Debit Card,Clothing Store,Accessories,Sunday,Yes,2026-03
+TXN00261,2026-08-12,Food,174.22,Debit Card,Cafe,Coffee,Wednesday,No,2026-08
+TXN00986,2026-03-31,Entertainment,147.35,Credit Card,Event,Event ticket,Tuesday,No,2026-03
+TXN01164,2026-07-10,Transport,129.53,Net Banking,Cab,Ride,Friday,No,2026-07
+TXN00074,2026-05-28,Shopping,217.62,Cash,Clothing Store,Accessories,Thursday,No,2026-05
+TXN00331,2026-02-19,Health,445.23,Debit Card,Clinic,Health checkup,Thursday,No,2026-02
+TXN00002,2026-08-15,Education,483.78,UPI,Learning Platform,College expense,Saturday,Yes,2026-08
+TXN00551,2026-04-12,Transport,125.35,UPI,Fuel Station,Public transport,Sunday,Yes,2026-04
+TXN00822,2026-04-28,Bills,451.83,Credit Card,Water Bill,Internet bill,Tuesday,No,2026-04
+TXN01092,2025-09-05,Entertainment,226.56,UPI,Streaming,Leisure,Friday,No,2025-09
+TXN00909,2025-10-09,Groceries,353.55,Debit Card,Local Grocery,Food supplies,Thursday,No,2025-10
+TXN00787,2025-12-12,Food,155.89,UPI,Food Delivery,Dinner,Friday,No,2025-12
+TXN00563,2025-11-23,Food,187.8,Debit Card,Food Delivery,Coffee,Sunday,Yes,2025-11
+TXN00686,2026-08-24,Transport,151.74,UPI,Bus,Public transport,Monday,No,2026-08
+TXN01037,2026-08-27,Entertainment,121.27,Credit Card,Event,Leisure,Thursday,No,2026-08
+TXN00445,2025-10-28,Transport,30.0,Net Banking,Bus,Fuel,Tuesday,No,2025-10
+TXN01127,2025-10-08,Food,186.52,Net Banking,Food Delivery,Coffee,Wednesday,No,2025-10
+TXN00014,2026-08-26,Groceries,476.55,Credit Card,Online Grocery,Food supplies,Wednesday,No,2026-08
+TXN00435,2026-06-02,Bills,569.31,Net Banking,,Mobile recharge,Tuesday,No,2026-06
+TXN00826,2026-03-02,Groceries,537.66,UPI,Online Grocery,Monthly groceries,Monday,No,2026-03
+TXN00410,2025-10-24,Health,276.15,UPI,Clinic,Medicine,Friday,No,2025-10
+TXN00344,2025-12-08,Subscriptions,196.75,Cash,Netflix,Streaming plan,Monday,No,2025-12
+TXN00549,2026-01-29,Subscriptions,230.08,UPI,Cloud Storage,Monthly subscription,Thursday,No,2026-01
+TXN00897,2025-12-20,Bills,378.44,Credit Card,Internet Provider,Mobile recharge,Saturday,Yes,2025-12
+TXN00441,2026-07-15,Health,227.79,UPI,Pharmacy,Medicine,Wednesday,No,2026-07
+TXN00265,2026-07-01,Subscriptions,4652.45,UPI,Netflix,Streaming plan,Wednesday,No,2026-07
+TXN00287,2026-04-15,Food,226.46,Cash,Street Food,Lunch,Wednesday,No,2026-04
+TXN00515,2026-07-27,Bills,607.04,Debit Card,Internet Provider,Mobile recharge,Monday,No,2026-07
+TXN01097,2026-06-21,Transport,122.24,Cash,Bus,Fuel,Sunday,Yes,2026-06
+TXN01083,2026-02-04,Health,297.64,UPI,Diagnostic Center,Health checkup,Wednesday,No,2026-02
+TXN00972,2025-12-27,Groceries,86.81,Debit Card,Local Grocery,Household supplies,Saturday,Yes,2025-12
+TXN00152,2025-09-13,Education,244.11,Cash,Book Store,Certification,Saturday,Yes,2025-09
+TXN00671,2026-01-25,Groceries,332.14,UPI,Supermarket,Supermarket,Sunday,Yes,2026-01
+TXN00329,2025-10-19,Food,126.27,Cash,Cafe,Lunch,Sunday,Yes,2025-10
+TXN01031,2026-07-17,Groceries,441.21,UPI,Online Grocery,Household supplies,Friday,No,2026-07
+TXN00086,2025-10-23,Food,178.97,UPI,Local Restaurant,Dinner,Thursday,No,2025-10
+TXN01045,2025-09-05,Food,198.44,UPI,Food Delivery,Snacks,Friday,No,2025-09
+TXN00464,2026-02-01,Entertainment,192.19,UPI,Streaming,Movie,Sunday,Yes,2026-02
+TXN00886,2025-09-14,Food,219.93,Cash,Local Restaurant,Snacks,Sunday,Yes,2025-09
+TXN00403,2025-10-28,Groceries,262.26,UPI,Local Grocery,Supermarket,Tuesday,No,2025-10
+TXN00750,2026-02-12,Travel,1032.1,Debit Card,Train,Travel booking,Thursday,No,2026-02
+TXN01108,2026-02-04,Food,110.9,Credit Card,Local Restaurant,Snacks,Wednesday,No,2026-02
+TXN01131,2026-06-30,Food,143.17,UPI,Food Delivery,Coffee,Tuesday,No,2026-06
+TXN00956,2026-07-08,Food,166.72,Cash,Street Food,Breakfast,Wednesday,No,2026-07
+TXN00242,2026-05-10,Food,183.46,UPI,Cafe,Dinner,Sunday,Yes,2026-05
+TXN00324,2026-07-01,Travel,816.34,Credit Card,Hotel,Travel booking,Wednesday,No,2026-07
+TXN00431,2026-01-25,Education,42.79,Net Banking,Book Store,Certification,Sunday,Yes,2026-01
+TXN01161,2026-08-12,Transport,124.52,Net Banking,Auto,Ride,Wednesday,No,2026-08
+TXN00764,2025-12-04,Shopping,196.88,UPI,Clothing Store,Online purchase,Thursday,No,2025-12
+TXN01040,2026-07-13,Entertainment,296.47,UPI,Movie Theatre,Event ticket,Monday,No,2026-07
+TXN00523,2026-04-30,Health,106.94,UPI,Pharmacy,Medicine,Thursday,No,2026-04
+TXN00479,2026-06-16,Food,191.82,UPI,Food Delivery,Snacks,Tuesday,No,2026-06
+TXN01022,2025-11-08,Education,399.15,Credit Card,College Fee,College expense,Saturday,Yes,2025-11
+TXN00935,2025-09-06,Groceries,332.44,Credit Card,Local Grocery,Food supplies,Saturday,Yes,2025-09
+TXN01020,2025-12-04,Travel,5188.91,Credit Card,Hotel,Travel booking,Thursday,No,2025-12
+TXN00867,2026-08-16,Health,258.25,Net Banking,Diagnostic Center,Treatment,Sunday,Yes,2026-08
+TXN00693,2026-01-14,Travel,345.93,UPI,Train,Hotel booking,Wednesday,No,2026-01
+TXN00746,2026-08-24,Food,210.09,UPI,Street Food,Dinner,Monday,No,2026-08
+TXN01115,2025-12-24,Subscriptions,203.37,UPI,Netflix,Streaming plan,Wednesday,No,2025-12
+TXN00005,2025-11-11,Food,199.3,Debit Card,Street Food,Coffee,Tuesday,No,2025-11
+TXN01091,2025-09-10,Entertainment,124.26,Credit Card,Gaming,Event ticket,Wednesday,No,2025-09
+TXN00666,2026-03-22,Shopping,272.52,UPI,Flipkart,Household item,Sunday,Yes,2026-03
+TXN01100,2026-04-16,Food,168.14,UPI,Cafe,Coffee,Thursday,No,2026-04
+TXN00559,2026-08-27,Health,58.92,Cash,Hospital,Medicine,Thursday,No,2026-08
+TXN00770,2025-12-27,Entertainment,148.64,Net Banking,Streaming,Movie,Saturday,Yes,2025-12
+TXN00753,2026-01-23,Food,111.7,UPI,Cafe,Dinner,Friday,No,2026-01
+TXN00114,2026-05-26,Subscriptions,6744.32,UPI,Spotify,Music plan,Tuesday,No,2026-05
+TXN00899,2026-08-29,Shopping,99.37,UPI,Local Store,Online purchase,Saturday,Yes,2026-08
+TXN00705,2026-03-31,Subscriptions,147.49,Cash,Netflix,Monthly subscription,Tuesday,No,2026-03
+TXN00098,2025-09-09,Subscriptions,286.49,UPI,Spotify,Streaming plan,Tuesday,No,2025-09
+TXN00022,2026-03-11,Bills,667.48,Debit Card,Electricity Board,Mobile recharge,Wednesday,No,2026-03
+TXN01023,2026-07-15,Food,151.41,Credit Card,Food Delivery,Snacks,Wednesday,No,2026-07
+TXN00031,2025-10-29,Shopping,224.98,Debit Card,Clothing Store,Online purchase,Wednesday,No,2025-10
+TXN00504,2026-08-06,Travel,30.0,UPI,Train,Trip expense,Thursday,No,2026-08
+TXN00565,2026-08-08,Education,264.29,UPI,Book Store,Course fee,Saturday,Yes,2026-08
+TXN00902,2026-06-21,Travel,1423.72,Cash,Hotel,Flight ticket,Sunday,Yes,2026-06
+TXN00548,2026-01-30,Food,230.14,UPI,Street Food,Breakfast,Friday,No,2026-01
+TXN00361,2026-06-07,Groceries,393.13,UPI,Online Grocery,Supermarket,Sunday,Yes,2026-06
+TXN00781,2026-06-30,Bills,234.71,Debit Card,Internet Provider,Internet bill,Tuesday,No,2026-06
+TXN01186,2026-08-30,Transport,138.71,UPI,Fuel Station,Public transport,Sunday,Yes,2026-08
+TXN01111,2026-07-29,Food,134.25,UPI,Cafe,Breakfast,Wednesday,No,2026-07
+TXN01116,2026-05-01,Subscriptions,280.2,Debit Card,Cloud Storage,Streaming plan,Friday,No,2026-05
+TXN00036,2026-02-22,Food,323.69,UPI,Street Food,Coffee,Sunday,Yes,2026-02
+TXN00395,2025-10-21,Education,297.01,Debit Card,College Fee,Course fee,Tuesday,No,2025-10
+TXN00296,2026-03-27,Food,242.81,Debit Card,Street Food,Dinner,Friday,No,2026-03
+TXN00489,2026-06-17,Education,527.64,UPI,College Fee,Certification,Wednesday,No,2026-06
+TXN00438,2026-08-12,Subscriptions,39.73,Credit Card,Spotify,Software plan,Wednesday,No,2026-08
+TXN00805,2025-10-21,Food,181.48,Net Banking,Cafe,Breakfast,Tuesday,No,2025-10
+TXN00777,2026-05-09,Subscriptions,154.15,Debit Card,Netflix,Music plan,Saturday,Yes,2026-05
+TXN00564,2026-04-05,Travel,759.78,Debit Card,Train,Flight ticket,Sunday,Yes,2026-04
+TXN01172,2026-07-10,Food,250.79,Credit Card,Cafe,,Friday,No,2026-07
+TXN00254,2026-05-25,Bills,471.68,Net Banking,Internet Provider,Mobile recharge,Monday,No,2026-05
+TXN00910,2026-05-31,Food,93.61,Net Banking,Cafe,Lunch,Sunday,Yes,2026-05
+TXN00228,2026-06-07,Food,202.89,UPI,Local Restaurant,Breakfast,Sunday,Yes,2026-06
+TXN01109,2025-10-17,Transport,136.49,UPI,Cab,Public transport,Friday,No,2025-10
+TXN00471,2025-10-17,Food,217.13,UPI,Local Restaurant,Breakfast,Friday,No,2025-10
+TXN00882,2026-06-30,Food,213.42,UPI,Cafe,Coffee,Tuesday,No,2026-06
+TXN00424,2026-07-08,Bills,364.57,Debit Card,Water Bill,Internet bill,Wednesday,No,2026-07
+TXN00767,2026-02-01,Food,158.45,UPI,Food Delivery,Snacks,Sunday,Yes,2026-02
+TXN00546,2025-10-06,Transport,129.15,Debit Card,Cab,Public transport,Monday,No,2025-10
+TXN00579,2025-11-08,Bills,650.7,Cash,Mobile Provider,Water bill,Saturday,Yes,2025-11
+TXN01021,2026-07-02,Groceries,87.28,UPI,Online Grocery,Household supplies,Thursday,No,2026-07
+TXN00019,2026-05-16,Entertainment,181.66,UPI,Gaming,Game,Saturday,Yes,2026-05
+TXN00124,2025-10-05,Shopping,393.16,Credit Card,Amazon,Accessories,Sunday,Yes,2025-10
+TXN01049,2026-01-10,Travel,450.63,UPI,Hotel,Trip expense,Saturday,Yes,2026-01
+TXN00042,2026-01-09,Education,69.88,UPI,Online Course,Books,Friday,No,2026-01
+TXN00021,2026-06-21,Groceries,324.39,UPI,Supermarket,Monthly groceries,Sunday,Yes,2026-06
+TXN00457,2026-03-08,Food,197.66,UPI,Food Delivery,Coffee,Sunday,Yes,2026-03
+TXN00544,2026-02-24,Transport,6267.52,Credit Card,Metro,Fuel,Tuesday,No,2026-02
+TXN01110,2026-07-21,Shopping,333.5,Cash,Clothing Store,Accessories,Tuesday,No,2026-07
+TXN00937,2026-06-09,Education,313.74,Cash,Learning Platform,Certification,Tuesday,No,2026-06
+TXN00474,2026-03-23,Groceries,307.48,UPI,Online Grocery,Household supplies,Monday,No,2026-03
+TXN00996,2025-10-08,Education,2831.34,Credit Card,College Fee,Study material,Wednesday,No,2025-10
+TXN00135,2025-09-15,Food,155.91,UPI,Cafe,Lunch,Monday,No,2025-09
+TXN01109,2025-10-17,Transport,136.49,UPI,Cab,Public transport,Friday,No,2025-10
+TXN00443,2026-01-05,Entertainment,288.85,Debit Card,Streaming,Game,Monday,No,2026-01
+TXN00420,2026-08-31,Entertainment,120.41,Debit Card,Streaming,Event ticket,Monday,No,2026-08
+TXN01198,2025-11-02,Food,169.13,Debit Card,Cafe,Breakfast,Sunday,Yes,2025-11
+TXN00797,2026-08-13,Shopping,216.83,Credit Card,Amazon,Accessories,Thursday,No,2026-08
+TXN00220,2026-03-17,Health,222.77,Cash,Hospital,Doctor visit,Tuesday,No,2026-03
+TXN00526,2026-08-03,Food,253.92,Debit Card,Food Delivery,Coffee,Monday,No,2026-08
+TXN00603,2025-11-13,Education,271.14,UPI,Book Store,Books,Thursday,No,2025-11
+TXN00064,2025-09-02,Entertainment,216.19,Debit Card,Event,Event ticket,Tuesday,No,2025-09
+TXN00757,2025-10-21,Transport,127.52,UPI,Fuel Station,Office/College travel,Tuesday,No,2025-10
+TXN00485,2025-09-10,Subscriptions,198.58,Debit Card,Software,Software plan,Wednesday,No,2025-09
+TXN00608,2026-01-19,Groceries,312.67,UPI,Online Grocery,Vegetables,Monday,No,2026-01
+TXN00713,2026-03-16,Groceries,361.94,Cash,Supermarket,Household supplies,Monday,No,2026-03
+TXN00932,2025-11-22,Groceries,426.62,UPI,Online Grocery,Food supplies,Saturday,Yes,2025-11
+TXN00272,2025-12-08,Transport,172.14,Cash,Auto,Ride,Monday,No,2025-12
+TXN00561,2026-05-31,Food,187.41,UPI,Food Delivery,Breakfast,Sunday,Yes,2026-05
+TXN00938,2026-07-17,Shopping,30.0,Cash,Flipkart,Household item,Friday,No,2026-07
+TXN00553,2026-05-26,Food,210.28,UPI,Local Restaurant,Coffee,Tuesday,No,2026-05
+TXN00383,2026-02-20,Shopping,322.53,UPI,Flipkart,Household item,Friday,No,2026-02
+TXN00090,2026-03-07,Transport,129.14,UPI,Auto,Fuel,Saturday,Yes,2026-03
+TXN00925,2025-12-20,Food,131.17,UPI,Local Restaurant,Coffee,Saturday,Yes,2025-12
+TXN00695,2026-07-13,Shopping,129.53,UPI,Amazon,Accessories,Monday,No,2026-07
+TXN00191,2026-07-12,Food,181.96,UPI,Street Food,Lunch,Sunday,Yes,2026-07
+TXN00049,2025-11-28,Food,183.05,UPI,Food Delivery,Snacks,Friday,No,2025-11
+TXN01103,2026-03-03,Groceries,303.88,UPI,Local Grocery,Household supplies,Tuesday,No,2026-03
+TXN00738,2025-12-07,Health,139.76,UPI,Diagnostic Center,Doctor visit,Sunday,Yes,2025-12
+TXN00521,2026-06-29,Subscriptions,206.35,UPI,Cloud Storage,Cloud storage,Monday,No,2026-06
+TXN00215,2026-01-08,Subscriptions,194.92,UPI,Spotify,Monthly subscription,Thursday,No,2026-01
+TXN00673,2025-10-17,Subscriptions,78.42,UPI,Spotify,Monthly subscription,Friday,No,2025-10
+TXN00761,2026-06-15,Food,211.45,Debit Card,Local Restaurant,Dinner,Monday,No,2026-06
+TXN00622,2026-01-23,Education,269.46,Credit Card,College Fee,Certification,Friday,No,2026-01
+TXN00943,2026-06-16,Bills,486.15,UPI,Electricity Board,Internet bill,Tuesday,No,2026-06
+TXN00341,2026-06-29,Subscriptions,41.45,Net Banking,Software,Music plan,Monday,No,2026-06
+TXN00028,2026-04-24,Food,253.11,UPI,Cafe,Dinner,Friday,No,2026-04
+TXN00328,2026-03-11,Bills,217.18,UPI,Water Bill,Utility payment,Wednesday,No,2026-03
+TXN00890,2026-08-31,Health,192.79,Net Banking,Clinic,Doctor visit,Monday,No,2026-08
+TXN01132,2026-08-12,Groceries,564.53,Credit Card,Local Grocery,Vegetables,Wednesday,No,2026-08
+TXN00800,2026-02-13,Subscriptions,198.22,Credit Card,Software,Software plan,Friday,No,2026-02
+TXN00316,2026-06-10,Groceries,298.2,UPI,Online Grocery,Supermarket,Wednesday,No,2026-06
+TXN00017,2026-01-28,Food,207.86,UPI,Food Delivery,Dinner,Wednesday,No,2026-01
+TXN00811,2026-07-27,Food,96.92,Debit Card,Local Restaurant,Lunch,Monday,No,2026-07
+TXN00854,2025-10-16,Food,172.15,UPI,Food Delivery,Dinner,Thursday,No,2025-10
+TXN00883,2026-01-05,Transport,126.88,Net Banking,Metro,Fuel,Monday,No,2026-01
+TXN00723,2026-06-16,Groceries,296.24,UPI,Online Grocery,,Tuesday,No,2026-06
+TXN00029,2026-08-11,Groceries,395.23,Credit Card,Local Grocery,Vegetables,Tuesday,No,2026-08
+TXN00247,2026-03-18,Health,78.25,UPI,Diagnostic Center,Medicine,Wednesday,No,2026-03
+TXN00426,2026-01-22,Food,189.6,UPI,Cafe,Lunch,Thursday,No,2026-01
+TXN00884,2025-10-26,Food,124.31,UPI,Street Food,Dinner,Sunday,Yes,2025-10
+TXN00224,2026-03-03,Shopping,78.35,UPI,Clothing Store,Accessories,Tuesday,No,2026-03
+TXN00161,2025-10-15,Food,175.3,Credit Card,Food Delivery,Dinner,Wednesday,No,2025-10
+TXN00783,2026-04-17,Entertainment,58.21,Debit Card,Gaming,Streaming,Friday,No,2026-04
+TXN00914,2026-06-27,Transport,160.53,Net Banking,Auto,Daily commute,Saturday,Yes,2026-06
+TXN00263,2025-10-30,Groceries,273.18,UPI,Online Grocery,Supermarket,Thursday,No,2025-10
+TXN00199,2026-05-26,Food,160.68,UPI,Local Restaurant,Dinner,Tuesday,No,2026-05
+TXN01019,2025-12-03,Groceries,518.01,UPI,Supermarket,Household supplies,Wednesday,No,2025-12
+TXN00547,2025-12-05,Groceries,184.69,UPI,Local Grocery,Food supplies,Friday,No,2025-12
+TXN00751,2026-03-21,Education,252.97,UPI,Learning Platform,Study material,Saturday,Yes,2026-03
+TXN00644,2026-01-04,Food,171.84,UPI,Street Food,Snacks,Sunday,Yes,2026-01
+TXN00638,2025-10-09,Groceries,340.74,UPI,Supermarket,Supermarket,Thursday,No,2025-10
+TXN00562,2025-11-01,Food,182.29,Net Banking,Cafe,Coffee,Saturday,Yes,2025-11
+TXN00604,2026-05-11,Bills,667.11,Credit Card,Mobile Provider,Electricity bill,Monday,No,2026-05
+TXN00664,2025-11-19,Shopping,72.29,Debit Card,Flipkart,Clothes,Wednesday,No,2025-11
+TXN00763,2026-08-14,Transport,127.22,Net Banking,Bus,Public transport,Friday,No,2026-08
+TXN00009,2025-12-31,Bills,271.03,Credit Card,Electricity Board,Electricity bill,Wednesday,No,2025-12
+TXN00747,2026-05-17,Education,125.33,Debit Card,Book Store,Certification,Sunday,Yes,2026-05
+TXN00299,2025-11-07,Bills,116.98,Credit Card,Electricity Board,Internet bill,Friday,No,2025-11
+TXN00542,2026-03-11,Shopping,354.15,Debit Card,Amazon,Online purchase,Wednesday,No,2026-03
+TXN00849,2025-09-01,Health,366.17,UPI,Clinic,Pharmacy,Monday,No,2025-09
+TXN00338,2025-10-07,Food,152.06,Debit Card,Street Food,Dinner,Tuesday,No,2025-10
+TXN00010,2026-04-03,Entertainment,186.89,Net Banking,Gaming,Streaming,Friday,No,2026-04
+TXN00106,2026-06-16,Food,233.45,UPI,Local Restaurant,Coffee,Tuesday,No,2026-06
+TXN01125,2026-07-27,Entertainment,199.94,Debit Card,Event,Event ticket,Monday,No,2026-07
+TXN01026,2026-01-15,Subscriptions,167.08,UPI,Netflix,Streaming plan,Thursday,No,2026-01
+TXN00112,2026-03-20,Education,224.02,Debit Card,Online Course,Study material,Friday,No,2026-03
+TXN00827,2026-08-02,Food,121.52,UPI,Food Delivery,Coffee,Sunday,Yes,2026-08
+TXN00202,2025-12-10,Groceries,338.37,UPI,Local Grocery,Household supplies,Wednesday,No,2025-12
+TXN00533,2026-03-15,Groceries,355.73,UPI,Online Grocery,Supermarket,Sunday,Yes,2026-03
+TXN00475,2026-04-06,Bills,177.74,Debit Card,Electricity Board,Electricity bill,Monday,No,2026-04
+TXN01056,2026-06-22,Travel,1132.19,UPI,Flight,Hotel booking,Monday,No,2026-06
+TXN00080,2026-03-09,Food,231.29,Debit Card,Local Restaurant,Snacks,Monday,No,2026-03
+TXN00652,2026-03-10,Shopping,354.88,Cash,Local Store,Electronics,Tuesday,No,2026-03
+TXN00122,2026-08-26,Health,283.59,Debit Card,Diagnostic Center,Medicine,Wednesday,No,2026-08
+TXN00813,2026-08-06,Transport,57.62,UPI,Cab,Daily commute,Thursday,No,2026-08
+TXN00142,2026-04-29,Groceries,313.66,Cash,Local Grocery,Supermarket,Wednesday,No,2026-04
+TXN00304,2026-03-14,Entertainment,132.6,Credit Card,Movie Theatre,Event ticket,Saturday,Yes,2026-03
+TXN01069,2026-07-06,Transport,110.55,Credit Card,Auto,Office/College travel,Monday,No,2026-07
+TXN00297,2026-02-16,Groceries,271.3,UPI,Local Grocery,Food supplies,Monday,No,2026-02
+TXN00083,2026-03-27,Groceries,52.94,Credit Card,Supermarket,Monthly groceries,Friday,No,2026-03
+TXN00360,2026-02-21,Food,184.41,Cash,Food Delivery,Breakfast,Saturday,Yes,2026-02
+TXN00219,2026-02-07,Bills,613.68,UPI,Internet Provider,Mobile recharge,Saturday,Yes,2026-02
+TXN01090,2026-07-19,Food,208.15,Debit Card,Local Restaurant,Lunch,Sunday,Yes,2026-07
+TXN00295,2026-02-10,Education,509.65,Debit Card,Learning Platform,Course fee,Tuesday,No,2026-02
+TXN00701,2026-04-16,Education,30.0,Credit Card,Online Course,Books,Thursday,No,2026-04
+TXN00168,2026-08-06,Groceries,420.15,UPI,Online Grocery,Supermarket,Thursday,No,2026-08
+TXN00646,2026-01-26,Shopping,418.56,UPI,Local Store,Household item,Monday,No,2026-01
+TXN00508,2025-10-03,Shopping,242.27,UPI,Amazon,Accessories,Friday,No,2025-10
+TXN00716,2026-07-09,Food,203.51,UPI,Food Delivery,Snacks,Thursday,No,2026-07
+TXN01142,2026-02-18,Groceries,279.2,Credit Card,Local Grocery,Food supplies,Wednesday,No,2026-02
+TXN00939,2026-04-14,Transport,101.96,UPI,Cab,Daily commute,Tuesday,No,2026-04
+TXN00419,2026-05-20,Food,172.66,Debit Card,Local Restaurant,Snacks,Wednesday,No,2026-05
+TXN00685,2026-05-30,Bills,542.44,Credit Card,Water Bill,Utility payment,Saturday,Yes,2026-05
+TXN00846,2026-07-14,Groceries,422.0,UPI,Supermarket,Vegetables,Tuesday,No,2026-07
+TXN00139,2025-11-02,Bills,547.7,UPI,Electricity Board,Mobile recharge,Sunday,Yes,2025-11
+TXN00428,2026-01-02,Bills,272.92,Credit Card,Water Bill,Electricity bill,Friday,No,2026-01
+TXN00707,2026-04-28,Groceries,459.67,UPI,Supermarket,Household supplies,Tuesday,No,2026-04
+TXN00930,2026-05-22,Shopping,101.31,UPI,Amazon,Clothes,Friday,No,2026-05
+TXN00214,2026-01-04,Groceries,443.99,Debit Card,Supermarket,Food supplies,Sunday,Yes,2026-01
+TXN00674,2026-04-21,Food,179.46,Debit Card,Local Restaurant,Lunch,Tuesday,No,2026-04
+TXN00251,2026-08-04,Subscriptions,229.58,Debit Card,Spotify,Software plan,Tuesday,No,2026-08
+TXN00534,2026-07-11,Bills,239.61,UPI,Mobile Provider,Electricity bill,Saturday,Yes,2026-07
+TXN00613,2026-03-13,Groceries,633.4,Debit Card,Local Grocery,Monthly groceries,Friday,No,2026-03
+TXN00467,2026-03-04,Travel,650.09,Debit Card,Train,Train ticket,Wednesday,No,2026-03
+TXN00874,2026-06-19,Bills,291.16,Credit Card,Water Bill,Electricity bill,Friday,No,2026-06
+TXN00145,2026-04-10,Travel,229.05,Credit Card,Train,Flight ticket,Friday,No,2026-04
+TXN01138,2026-03-29,Shopping,366.23,UPI,Clothing Store,Online purchase,Sunday,Yes,2026-03
+TXN00855,2025-10-04,Shopping,287.04,UPI,Amazon,Online purchase,Saturday,Yes,2025-10
+TXN01177,2026-05-02,Shopping,283.4,Net Banking,Clothing Store,Clothes,Saturday,Yes,2026-05
+TXN00171,2026-01-06,Transport,30.0,Cash,Auto,Fuel,Tuesday,No,2026-01
+TXN00955,2026-01-30,Food,161.22,Debit Card,Street Food,Coffee,Friday,No,2026-01
+TXN00229,2026-07-22,Shopping,70.26,Debit Card,Clothing Store,Online purchase,Wednesday,No,2026-07
+TXN01012,2026-07-18,Groceries,285.98,Credit Card,Local Grocery,Food supplies,Saturday,Yes,2026-07
+TXN00164,2026-06-11,Travel,1172.85,UPI,Travel Agency,Trip expense,Thursday,No,2026-06
+TXN00775,2026-04-24,Transport,152.42,UPI,Bus,Office/College travel,Friday,No,2026-04
+TXN01048,2025-11-01,Transport,134.43,UPI,Cab,Fuel,Saturday,Yes,2025-11
+TXN00137,2025-10-12,Entertainment,206.56,Cash,Streaming,Streaming,Sunday,Yes,2025-10
+TXN01033,2026-07-17,Bills,383.73,UPI,Electricity Board,Water bill,Friday,No,2026-07
+TXN00682,2025-09-12,Subscriptions,208.3,UPI,Cloud Storage,Streaming plan,Friday,No,2025-09
+TXN00741,2026-07-08,Transport,125.38,Cash,Metro,Public transport,Wednesday,No,2026-07
+TXN00765,2025-11-11,Food,83.1,UPI,Food Delivery,Coffee,Tuesday,No,2025-11
+TXN00722,2025-12-28,Transport,75.07,Credit Card,Fuel Station,Ride,Sunday,Yes,2025-12
+TXN00343,2025-12-04,Health,80.54,UPI,Hospital,Medicine,Thursday,No,2025-12
+TXN00127,2026-01-09,Travel,952.66,Cash,Train,Travel booking,Friday,No,2026-01
+TXN00236,2026-01-02,Shopping,153.06,UPI,Flipkart,Online purchase,Friday,No,2026-01
+TXN01060,2026-02-26,Groceries,405.71,UPI,Online Grocery,Household supplies,Thursday,No,2026-02
+TXN01094,2026-07-27,Health,149.95,UPI,Clinic,Medicine,Monday,No,2026-07
+TXN00833,2026-03-14,Groceries,192.84,Cash,Supermarket,,Saturday,Yes,2026-03
+TXN00333,2026-02-05,Health,302.95,Credit Card,Clinic,Pharmacy,Thursday,No,2026-02
+TXN00672,2025-09-20,Travel,1330.02,Debit Card,Hotel,Trip expense,Saturday,Yes,2025-09
+TXN00326,2025-09-04,Groceries,412.68,UPI,Online Grocery,Vegetables,Thursday,No,2025-09
+TXN00351,2026-07-20,Food,124.67,UPI,Street Food,Coffee,Monday,No,2026-07
+TXN00365,2026-01-29,Bills,531.88,Credit Card,Mobile Provider,Mobile recharge,Thursday,No,2026-01
+TXN00433,2025-12-29,Groceries,242.32,Debit Card,Online Grocery,Food supplies,Monday,No,2025-12
+TXN00585,2025-10-27,Subscriptions,290.64,Debit Card,Cloud Storage,Streaming plan,Monday,No,2025-10
+TXN00146,2026-04-19,Bills,615.48,Net Banking,Water Bill,Internet bill,Sunday,Yes,2026-04
+TXN00785,2025-11-05,Food,151.68,UPI,Food Delivery,Dinner,Wednesday,No,2025-11
+TXN00448,2026-04-27,Shopping,408.67,Credit Card,Flipkart,Accessories,Monday,No,2026-04
+TXN00097,2026-07-24,Food,234.77,UPI,Local Restaurant,Lunch,Friday,No,2026-07
+TXN00729,2026-05-25,Health,289.49,Credit Card,Diagnostic Center,Medicine,Monday,No,2026-05
+TXN00004,2025-12-16,Subscriptions,184.32,UPI,Spotify,Monthly subscription,Tuesday,No,2025-12
+TXN00698,2026-04-08,Education,116.19,UPI,Online Course,Study material,Wednesday,No,2026-04
+TXN00234,2025-12-06,Food,220.36,Net Banking,Cafe,Snacks,Saturday,Yes,2025-12
+TXN00068,2026-07-07,Shopping,378.29,Cash,Clothing Store,Electronics,Tuesday,No,2026-07
+TXN00994,2026-01-20,Travel,627.41,Debit Card,Flight,Train ticket,Tuesday,No,2026-01
+TXN00799,2026-05-07,Subscriptions,151.06,UPI,Software,Cloud storage,Thursday,No,2026-05
+TXN01179,2025-11-29,Food,129.12,Debit Card,Local Restaurant,Lunch,Saturday,Yes,2025-11
+TXN00662,2026-06-30,Bills,525.19,UPI,Electricity Board,Mobile recharge,Tuesday,No,2026-06
+TXN00117,2025-11-01,Bills,239.94,Cash,Water Bill,Utility payment,Saturday,Yes,2025-11
+TXN00841,2025-10-21,Shopping,385.68,Debit Card,Local Store,Accessories,Tuesday,No,2025-10
+TXN00964,2026-04-11,Transport,99.2,Debit Card,Fuel Station,Fuel,Saturday,Yes,2026-04
+TXN01148,2026-01-05,Bills,661.47,Credit Card,Mobile Provider,Internet bill,Monday,No,2026-01
+TXN00118,2026-04-04,Food,149.5,UPI,Cafe,Dinner,Saturday,Yes,2026-04
+TXN00020,2026-08-10,Food,147.24,Credit Card,Cafe,Dinner,Monday,No,2026-08
+TXN01007,2026-02-19,Food,120.63,Credit Card,Local Restaurant,Coffee,Thursday,No,2026-02
+TXN00894,2026-07-09,Shopping,94.27,Cash,Amazon,Online purchase,Thursday,No,2026-07
+TXN00381,2026-07-10,Subscriptions,176.16,Debit Card,Netflix,Software plan,Friday,No,2026-07
+TXN00872,2026-08-03,Food,142.57,Debit Card,Street Food,Breakfast,Monday,No,2026-08
+TXN00102,2025-11-02,Entertainment,178.06,UPI,Streaming,Movie,Sunday,Yes,2025-11
+TXN00270,2025-09-09,Food,199.22,UPI,Food Delivery,Lunch,Tuesday,No,2025-09
+TXN00820,2026-04-23,Bills,432.48,UPI,Electricity Board,Internet bill,Thursday,No,2026-04
+TXN01174,2026-02-01,Food,173.21,UPI,Food Delivery,Snacks,Sunday,Yes,2026-02
+TXN00631,2026-08-30,Entertainment,79.97,UPI,Movie Theatre,Event ticket,Sunday,Yes,2026-08
+TXN01153,2025-09-29,Health,293.17,Debit Card,Diagnostic Center,Treatment,Monday,No,2025-09
+TXN00368,2026-05-31,Bills,414.73,Credit Card,Internet Provider,Internet bill,Sunday,Yes,2026-05
+TXN00149,2026-02-18,Transport,122.86,UPI,Fuel Station,Office/College travel,Wednesday,No,2026-02
+TXN00931,2026-04-24,Bills,506.74,UPI,Electricity Board,Internet bill,Friday,No,2026-04
+TXN00601,2025-11-15,Subscriptions,166.7,Debit Card,Software,Music plan,Saturday,Yes,2025-11
+TXN00949,2025-09-04,Food,272.54,UPI,Street Food,Breakfast,Thursday,No,2025-09
+TXN00411,2025-12-10,Groceries,462.06,Net Banking,Online Grocery,Monthly groceries,Wednesday,No,2025-12
+TXN00406,2026-02-27,Health,286.7,UPI,Diagnostic Center,Medicine,Friday,No,2026-02
+TXN00612,2025-12-31,Health,280.08,UPI,Clinic,Medicine,Wednesday,No,2025-12
+TXN00198,2025-10-22,Travel,633.33,UPI,Travel Agency,Hotel booking,Wednesday,No,2025-10
+TXN00286,2026-05-12,Entertainment,47.0,UPI,Movie Theatre,Streaming,Tuesday,No,2026-05
+TXN00129,2025-09-05,Entertainment,169.39,Credit Card,Event,Movie,Friday,No,2025-09
+TXN00835,2026-03-14,Groceries,492.47,UPI,Online Grocery,Food supplies,Saturday,Yes,2026-03
+TXN00950,2026-08-16,Bills,216.44,Credit Card,Mobile Provider,Water bill,Sunday,Yes,2026-08
+TXN00710,2026-05-11,Health,404.91,UPI,Hospital,Medicine,Monday,No,2026-05
+TXN00160,2026-02-17,Bills,727.91,Debit Card,Water Bill,Internet bill,Tuesday,No,2026-02
+TXN00181,2026-08-25,Education,562.39,Cash,Online Course,Course fee,Tuesday,No,2026-08
+TXN00918,2026-03-31,Bills,369.64,Credit Card,Mobile Provider,Internet bill,Tuesday,No,2026-03
+TXN01175,2026-06-18,Entertainment,174.08,UPI,Streaming,Game,Thursday,No,2026-06
+TXN00437,2025-10-28,Transport,100.74,Cash,Fuel Station,Office/College travel,Tuesday,No,2025-10
+TXN01154,2026-06-23,Food,140.41,Cash,Local Restaurant,Breakfast,Tuesday,No,2026-06
+TXN00525,2026-04-03,Travel,114.76,UPI,Flight,Trip expense,Friday,No,2026-04
+TXN01200,2026-02-01,Transport,126.78,Credit Card,Bus,Daily commute,Sunday,Yes,2026-02
+TXN01035,2026-07-25,Travel,919.46,UPI,Train,Train ticket,Saturday,Yes,2026-07
+TXN00924,2026-01-24,Bills,309.8,Cash,Mobile Provider,Electricity bill,Saturday,Yes,2026-01
+TXN00180,2026-05-17,Food,239.17,Credit Card,Food Delivery,Snacks,Sunday,Yes,2026-05
+TXN00543,2026-04-15,Subscriptions,178.65,Debit Card,Cloud Storage,Cloud storage,Wednesday,No,2026-04
+TXN00752,2025-11-22,Subscriptions,174.99,Net Banking,Spotify,Monthly subscription,Saturday,Yes,2025-11
+TXN00721,2025-09-05,Shopping,386.23,UPI,Clothing Store,Accessories,Friday,No,2025-09
+TXN00677,2026-01-21,Health,335.3,UPI,Clinic,Pharmacy,Wednesday,No,2026-01
+TXN00063,2026-08-26,Food,176.42,UPI,Local Restaurant,Snacks,Wednesday,No,2026-08
+TXN00389,2025-12-01,Subscriptions,166.36,Debit Card,Cloud Storage,Music plan,Monday,No,2025-12
+TXN00449,2026-06-17,Food,189.43,Credit Card,Cafe,Dinner,Wednesday,No,2026-06
+TXN00446,2025-12-31,Bills,453.09,Debit Card,Mobile Provider,Water bill,Wednesday,No,2025-12
+TXN00371,2026-05-04,Shopping,47.24,UPI,Local Store,Accessories,Monday,No,2026-05
+TXN01162,2025-12-19,Transport,126.22,UPI,Metro,Office/College travel,Friday,No,2025-12
+TXN00337,2026-04-21,Groceries,239.71,UPI,Online Grocery,Household supplies,Tuesday,No,2026-04
+TXN00700,2025-10-11,Entertainment,217.01,UPI,Movie Theatre,Streaming,Saturday,Yes,2025-10
+TXN00058,2026-05-22,Groceries,409.3,UPI,Online Grocery,Monthly groceries,Friday,No,2026-05
+TXN00734,2026-08-08,Groceries,419.68,UPI,Local Grocery,Monthly groceries,Saturday,Yes,2026-08
+TXN00697,2025-09-28,Food,210.57,UPI,Cafe,Snacks,Sunday,Yes,2025-09
+TXN00284,2025-12-13,Groceries,105.21,Credit Card,Supermarket,Monthly groceries,Saturday,Yes,2025-12
+TXN00260,2026-01-22,Shopping,235.03,UPI,Local Store,Accessories,Thursday,No,2026-01
+TXN00586,2025-10-09,Subscriptions,108.94,Credit Card,Cloud Storage,Streaming plan,Thursday,No,2025-10
+TXN00197,2026-07-15,Transport,88.59,Credit Card,Metro,,Wednesday,No,2026-07
+TXN01000,2026-07-30,Transport,171.55,UPI,Fuel Station,Ride,Thursday,No,2026-07
+TXN00096,2026-08-11,Transport,98.72,UPI,Fuel Station,Ride,Tuesday,No,2026-08
+TXN01107,2026-05-19,Bills,504.47,Debit Card,Mobile Provider,Internet bill,Tuesday,No,2026-05
+TXN00211,2026-08-09,Groceries,87.48,Credit Card,Supermarket,Monthly groceries,Sunday,Yes,2026-08
